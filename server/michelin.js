@@ -87,8 +87,6 @@ module.exports.get = async (url) => {
     for(let link of links){
       let restaurant = await this.scrapeOneRestaurant(link);
       restaurants.push(restaurant);
-      fs.appendFileSync('restaurant_michelin.json', toJSON(restaurant));
-      fs.appendFileSync('restaurant_michelin.json', ",");
     }
 
     return restaurants;  
@@ -96,10 +94,6 @@ module.exports.get = async (url) => {
   console.error(status);
   return null;
 };
-
-const toJSON = (restaurant) => {
-  return JSON.stringify(restaurant,null, 2)
-}
 
 module.exports.test = async () => {
   let test = await this.scrapeOneRestaurant(URL);
