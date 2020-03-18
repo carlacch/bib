@@ -5,33 +5,62 @@ const fs = require('fs');
 const URL = 'https://www.maitresrestaurateurs.fr/annuaire/ajax/loadresult';
 
 /**
- * Parse webpage restaurant
+ * Parse webpage restaurants
  * @param  {String} data - html response
+ * @return {Array} restaurants
+ */
+const parseAllPage = async (data) =>{
+  let restaurants = []
+  const $ = cheerio.load(data);
+
+  const elem = $('div.col-md-9 > div.annuaire_result_list > div.annuaire_single').toArray();
+  for (let i=0 ;i< elem.length ; i++){
+    let restau = await parse($,elem[i]);
+    restaurants.push(restau);
+  }
+
+  return restaurants;
+}
+
+/**
+ * Parse webpage restaurant
+ * @param  {Cheerio} $ - html document
+ * @param  {CheerioElement} element
  * @return {Object} restaurant
  */
-const parse = data => {
-  const $ = cheerio.load(data);
-  const name = $('.section-main h2.restaurant-details__heading--title').text();
-  var experience = $('#experience-section > ul > li:nth-child(2)').text();
-  experience = experience.replace('ò\n','').trim();
-  return {name, experience};
+const parse = async ($, element) => {
+  const linkInfo = 'https://www.maitresrestaurateurs.fr'+$(element).find('div.single_desc > div.single_libel').find('a').attr('href');
+  const info = await this.scrapeOneRestaurant(linkInfo);
+  const name = info.name;
+  const tel = $(element).find('div.single_desc > div.single_details > div > div:nth-child(3) > div').text().trim();
+  var list = $(element).find('div.single_info3 > div:nth-child(2)').text().trim().split('\n');
+  const [ZIPcode, city] = list.pop().trim().split(' ');
+  var street = "";
+  list.forEach(e => {
+    street+=e.trim();
+  })
+  const adress = street + ", " + city +", "+ZIPcode;
+  const link = info.link;
+  const speciality = info.speciality;
+  //return {name, adress, tel, link, speciality};
+  return {name, adress, tel, link, speciality,street,city,ZIPcode};
 };
 
+/**
+ * Parse webpage restaurant
+ * @param  {String} data - html response
+ * @return {Object} name, link, speciality of a restaurant
+ */
 const parseInfo = data =>{
   const $ = cheerio.load(data);
-  const name = $('.section-main h2.restaurant-details__heading--title').text();
-  var list = $('.section-main li.restaurant-details__heading-price').text().trim().split('\n');
-  let type = list.pop().replace('•','').trim();
-  let price ="";
-  list.forEach(e => {
-    price+=e.trim();
+  const name = $('.ep-container .ep-content .ep-section div.infos-nom').text().trim();
+  const spe= $('div.ep-container.container > div > div > div.ep-content-left.col-md-8 > div > div:nth-child(5) > div.ep-section-body > div > div > div.col-sm-4 > div.subcontent > div').toArray();
+  var speciality=[];
+  spe.forEach(s =>{
+    speciality.push(s.children[0].data);
   })
-  var experience = $('#experience-section > ul > li:nth-child(2)').text();
-  experience = experience.replace('ò\n','').replace('ó','').replace('ô','').trim();
-  const adress = $('.section-main ul.restaurant-details__heading--list li:nth-child(1)').text();
-  const tel = $('.section-main .collapse__block-item .d-flex span.flex-fill').first().text();
-  const link = $('.section-main .link-item .d-flex span.flex-fill').text();
-  return {name, adress, price, type, experience,  tel, link};
+  const link = $('div.ep-container.container > div > div > div.ep-content-left.col-md-8 > div > div.ep-section.ep-section-parcours.row > div > div > div.section-item-right.text.flex-5 > a').attr('href');
+  return {name, link, speciality};
 };
 
 /**
@@ -39,22 +68,32 @@ const parseInfo = data =>{
  * @param  {String}  url
  * @return {Object} restaurant
  */
-module.exports.scrapeRestaurant = async (page) => {
-  const response = await axiosaxios({
+module.exports.scrapeOneRestaurant = async (url) => {
+  const response = await axios(url);
+  const {data, status} = response;
+  if (status >= 200 && status < 300) {
+    return parseInfo(data);
+  }
+  console.error(status);
+  return null;
+};
+
+/**
+ * Scrape a given page
+ * @param  {String}  page
+ * @return {Array} restaurants
+ */
+module.exports.scrapeRestaurants = async (page) => {
+  const response = await axios({
     method: 'post',
     url: URL,
-    data: {
-      request_id: 'b5a91c6cc758d4267f55729ad172b154',
-      sort: 'undefined',
-      page: page
-    }
+    data: 'request_id=b5a91c6cc758d4267f55729ad172b154'+
+      '&sort=undefined'+`&page=${page}`    
   });
   const {data, status} = response;
   if (status >= 200 && status < 300) {
-    return data;
-    //return parse(data);
+    return parseAllPage(data);
   }
-
   console.error(status);
   return null;
 };
@@ -64,21 +103,17 @@ module.exports.scrapeRestaurant = async (page) => {
  * @return {Array} restaurants
  */
 module.exports.get = async () => {
-  const $ = cheerio.load(resp.data);
   let page = 1;
-  var restaurants=[];
-  let restaurant 
+  var all_restaurants=[];
+  let restaurants 
   do {
     console.log(page);
-    restaurant = await this.scrapeRestaurant(page);
-    restaurants.push(restaurant);
+    restaurants = await this.scrapeRestaurant(page);
+    all_restaurants = all_restaurants.concat(restaurants)
     page++;
   }
   while(restaurants.length!=0);  
-  return restaurants;  
+  return all_restaurants;  
 };
 
-const toJSON = (restaurant) => {
-  return JSON.stringify(restaurant,null, 2)
-}
 

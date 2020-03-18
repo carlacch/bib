@@ -22,11 +22,23 @@ async function michelinRestaurants(){
 }
 
 async function maitreRestaurants(){
-  const restaurants = await maitre.get();
-  fs.writeFileSync('restaurant_maitre.json', restaurants);
-  console.log('done');
-  return all_rest;
+  let page = 1;
+  var all_restaurants=[];
+  let restaurants 
+  do {
+    console.log(page);
+    restaurants = await maitre.scrapeRestaurants(page);
+    all_restaurants = all_restaurants.concat(restaurants)
+    page++;
+  }
+  while(restaurants.length!=0);  
+  
+  fs.writeFileSync('restaurant_maitre.json', JSON.stringify(all_restaurants,null,2));
+  //console.log(all_restaurants);
+  console.log(all_restaurants.length);
+  return all_restaurants;  
 }
 
-//michelinRestaurants();
+//const mich_rest = michelinRestaurants();
+const maitre_rest = maitreRestaurants();
 //michelin.test();
