@@ -7,7 +7,7 @@ const fs = require('fs');
 /**
  * Parse webpage restaurant
  * @param  {String} data - html response
- * @return {Object} restaurant
+ * @return {Object} name, experience
  */
 const parse = data => {
   const $ = cheerio.load(data);
@@ -17,6 +17,11 @@ const parse = data => {
   return {name, experience};
 };
 
+/**
+ * Parse webpage restaurant
+ * @param  {String} data - html response
+ * @return {Object} restaurant
+ */
 const parseInfo = data =>{
   const $ = cheerio.load(data);
   const name = $('.section-main h2.restaurant-details__heading--title').text().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
@@ -44,7 +49,7 @@ const parseInfo = data =>{
 /**
  * Scrape a given restaurant url
  * @param  {String}  url
- * @return {Object} restaurant
+ * @return {Object} name, experience
  */
 module.exports.scrapeRestaurant = async url => {
   const response = await axios(url);
@@ -53,12 +58,16 @@ module.exports.scrapeRestaurant = async url => {
   if (status >= 200 && status < 300) {
     return parse(data);
   }
-
   console.error(status);
 
   return null;
 };
 
+/**
+ * Scrape a given restaurant url
+ * @param  {String}  url
+ * @return {Object} restaurant
+ */
 module.exports.scrapeOneRestaurant = async url => {
   const resp = await axios(url);
   if (resp.status >= 200 && resp.status < 300){
