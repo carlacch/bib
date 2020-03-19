@@ -28,7 +28,7 @@
   },
   {
     "name": "Au Bouchon Breton",
-    "adress": "20 rue du Maréchal-Leclerc, Dinard, 35800, France",
+    "adress": "20 rue du Marechal-Leclerc, Dinard, 35800, France",
     "price": "18-52EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -36,7 +36,7 @@
     "link": "www.au-bouchon-breton.com"
   },
   {
-    "name": "Les Jardins du Léman",
+    "name": "Les Jardins du Leman",
     "adress": "Grande-Rue, Yvoire, 74140, France",
     "price": "25-80EUR",
     "type": "Cuisine moderne",
@@ -55,7 +55,7 @@
   },
   {
     "name": "Auberge de la Clue",
-    "adress": "place de l'Église, Plaisians, 26170, France",
+    "adress": "place de l'Eglise, Plaisians, 26170, France",
     "price": "30-60EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -63,7 +63,7 @@
     "link": ""
   },
   {
-    "name": "La Récré",
+    "name": "La Recre",
     "adress": "70 route de Satillieu, Vaudevant, 07410, France",
     "price": "28-39EUR",
     "type": "Cuisine moderne",
@@ -72,8 +72,8 @@
     "link": "www.restaurant-la-recre.com"
   },
   {
-    "name": "Le Cèpe",
-    "adress": "Immeuble Les Merisiers, Méribel, 73550, France",
+    "name": "Le Cepe",
+    "adress": "Immeuble Les Merisiers, Meribel, 73550, France",
     "price": "33-80EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable. Nos établissements de charme.",
@@ -108,8 +108,8 @@
     "link": "www.table-pouyaud.fr"
   },
   {
-    "name": "Le Jardin Les Crayères",
-    "adress": "7 avenue du Général-Giraud, Reims, 51100, France",
+    "name": "Le Jardin Les Crayeres",
+    "adress": "7 avenue du General-Giraud, Reims, 51100, France",
     "price": "31-81EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable. Nos établissements de charme.",
@@ -118,7 +118,7 @@
   },
   {
     "name": "Auberge de la Brenne",
-    "adress": "19 rue de la République, Neuillé-le-Lierre, 37380, France",
+    "adress": "19 rue de la Republique, Neuille-le-Lierre, 37380, France",
     "price": "33-85EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -144,8 +144,8 @@
     "link": ""
   },
   {
-    "name": "Les Millésimes",
-    "adress": "14 place de l'Hôtel-de-Ville, Noyers, 89310, France",
+    "name": "Les Millesimes",
+    "adress": "14 place de l'Hotel-de-Ville, Noyers, 89310, France",
     "price": "30-33EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable. Nos établissements de charme.",
@@ -181,7 +181,7 @@
   },
   {
     "name": "La Table d'Arthur R",
-    "adress": "9 rue Pierre Bérégovoy, Charleville-Mézières, 08000, France",
+    "adress": "9 rue Pierre Beregovoy, Charleville-Mezieres, 08000, France",
     "price": "31-51EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -190,7 +190,7 @@
   },
   {
     "name": "Les Jardins de l'Acropolis",
-    "adress": "rue d'Athènes, à Bourran, Rodez, 12000, France",
+    "adress": "rue d'Athenes, a Bourran, Rodez, 12000, France",
     "price": "26-60EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -207,7 +207,7 @@
     "link": "www.lougolin.com"
   },
   {
-    "name": "L'Oxygène",
+    "name": "L'Oxygene",
     "adress": "La Charmette, Valmorel, 73260, France",
     "price": "32-69EUR",
     "type": "Cuisine moderne",
@@ -252,7 +252,7 @@
     "link": "www.hotel-cancale.com"
   },
   {
-    "name": "Téjérina-Hôtel de la Place",
+    "name": "Tejerina-Hotel de la Place",
     "adress": "51 Place de la Mairie, Polliat, 01310, France",
     "price": "24-73EUR",
     "type": "Cuisine traditionnelle",
@@ -280,7 +280,7 @@
   },
   {
     "name": "Le 11 Bistrot Gourmand",
-    "adress": "11 rue de Verdun, Pontchâteau, 44160, France",
+    "adress": "11 rue de Verdun, Pontchateau, 44160, France",
     "price": "26-33EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -315,7 +315,7 @@
     "link": "www.latable101.fr"
   },
   {
-    "name": "L'Îlot Vert",
+    "name": "L'Ilot Vert",
     "adress": "34-36 rue de Lille, Boulogne-sur-Mer, 62200, France",
     "price": "26-68EUR",
     "type": "Cuisine moderne",
@@ -324,8 +324,8 @@
     "link": "www.lilotvert.fr"
   },
   {
-    "name": "Côté Toqués",
-    "adress": "21 rue Hoche, Néris-les-Bains, 03310, France",
+    "name": "Cote Toques",
+    "adress": "21 rue Hoche, Neris-les-Bains, 03310, France",
     "price": "22-46EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -333,7 +333,7 @@
     "link": ""
   },
   {
-    "name": "Côté Mer",
+    "name": "Cote Mer",
     "adress": "4 rue Ernest-Lamort, Cancale, 35260, France",
     "price": "30-90EUR",
     "type": "Cuisine traditionnelle",
@@ -352,7 +352,7 @@
   },
   {
     "name": "Briket' Bistrot",
-    "adress": "rue de L'Église, Guéthary, 64210, France",
+    "adress": "rue de L'Eglise, Guethary, 64210, France",
     "price": "32-50EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -397,7 +397,7 @@
   },
   {
     "name": "Etsi",
-    "adress": "23 rue Eugène-Carrière, Paris, 75018, France",
+    "adress": "23 rue Eugene-Carriere, Paris, 75018, France",
     "price": "30-35EUR",
     "type": "Cuisine grecque",
     "experience": "Assez confortable",
@@ -442,7 +442,7 @@
   },
   {
     "name": "La Vieille Forge",
-    "adress": "1 rue des Écoles, Kaysersberg, 68240, France",
+    "adress": "1 rue des Ecoles, Kaysersberg, 68240, France",
     "price": "31-80EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -451,7 +451,7 @@
   },
   {
     "name": "Le Bellevue",
-    "adress": "1 avenue des Pyrénées, Lacroix-Falgarde, 31120, France",
+    "adress": "1 avenue des Pyrenees, Lacroix-Falgarde, 31120, France",
     "price": "21-70EUR",
     "type": "Cuisine classique",
     "experience": "Confortable",
@@ -478,7 +478,7 @@
   },
   {
     "name": "Campagne, Vignes et Gourmandises",
-    "adress": "629 chemin des Terres, Sainte-Cécile-les-Vignes, 84290, France",
+    "adress": "629 chemin des Terres, Sainte-Cecile-les-Vignes, 84290, France",
     "price": "26-65EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable. Nos établissements de charme.",
@@ -486,7 +486,7 @@
     "link": "www.restaurant-cvg.com"
   },
   {
-    "name": "La Maison de Kerdiès",
+    "name": "La Maison de Kerdies",
     "adress": "5 route de Perherel, lieu-dit St-Samson, Plougasnou, 29630, France",
     "price": "21-34EUR",
     "type": "Cuisine traditionnelle",
@@ -505,7 +505,7 @@
   },
   {
     "name": "Le Bistro Chapouton",
-    "adress": "200 route de Montélimar, Grignan, 26230, France",
+    "adress": "200 route de Montelimar, Grignan, 26230, France",
     "price": "33-70EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -532,7 +532,7 @@
   },
   {
     "name": "Cokotte",
-    "adress": "6 rue Trois-Notre-Dame, Angoulême, 16000, France",
+    "adress": "6 rue Trois-Notre-Dame, Angouleme, 16000, France",
     "price": "33-57EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -541,7 +541,7 @@
   },
   {
     "name": "La Grillade Gourmande",
-    "adress": "16 rue de Reims, Épernay, 51200, France",
+    "adress": "16 rue de Reims, Epernay, 51200, France",
     "price": "33-68EUR",
     "type": "Spécialités de Grillades",
     "experience": "Confortable",
@@ -567,7 +567,7 @@
     "link": "www.restaurant-leconfidentiel.fr"
   },
   {
-    "name": "Le Petit Verdot du 17ème",
+    "name": "Le Petit Verdot du 17eme",
     "adress": "9 rue Fourcroy, Paris, 75017, France",
     "price": "30-47EUR",
     "type": "Cuisine traditionnelle",
@@ -577,7 +577,7 @@
   },
   {
     "name": "L'AO - L'Aigle d'Or",
-    "adress": "5 rue Principale, Rimbach-près-Guebwiller, 68500, France",
+    "adress": "5 rue Principale, Rimbach-pres-Guebwiller, 68500, France",
     "price": "22-50EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -594,7 +594,7 @@
     "link": "www.logesaymeric.com"
   },
   {
-    "name": "Le 6 à Table",
+    "name": "Le 6 a Table",
     "adress": "6 place Nationale, Caromb, 84330, France",
     "price": "33-60EUR",
     "type": "Cuisine moderne",
@@ -604,7 +604,7 @@
   },
   {
     "name": "La Ferme de Cupelin",
-    "adress": "198 route du Château, Saint-Gervais-les-Bains, 74170, France",
+    "adress": "198 route du Chateau, Saint-Gervais-les-Bains, 74170, France",
     "price": "34-59EUR",
     "type": "Cuisine régionale",
     "experience": "Confortable. Nos établissements de charme.",
@@ -621,8 +621,8 @@
     "link": ""
   },
   {
-    "name": "Restaurant du Musée",
-    "adress": "2 rue de la Rochette, Fréland, 68240, France",
+    "name": "Restaurant du Musee",
+    "adress": "2 rue de la Rochette, Freland, 68240, France",
     "price": "28-70EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -648,8 +648,8 @@
     "link": "www.cabanerestaurant.com"
   },
   {
-    "name": "Le Brélévenez",
-    "adress": "1 rue Stang-Ar-Béo, Lannion, 22300, France",
+    "name": "Le Brelevenez",
+    "adress": "1 rue Stang-Ar-Beo, Lannion, 22300, France",
     "price": "29-49EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -667,7 +667,7 @@
   },
   {
     "name": "Winstub du Chambard",
-    "adress": "9-13 rue du Général-de-Gaulle, Kaysersberg, 68240, France",
+    "adress": "9-13 rue du General-de-Gaulle, Kaysersberg, 68240, France",
     "price": "24-41EUR",
     "type": "Cuisine alsacienne",
     "experience": "Assez confortable. Nos établissements de charme.",
@@ -702,7 +702,7 @@
     "link": "www.au-coq-en-velours.com"
   },
   {
-    "name": "33 Cité",
+    "name": "33 Cite",
     "adress": "33 quai Charles-de-Gaulle, Lyon, 69006, France",
     "price": "28-59EUR",
     "type": "Cuisine traditionnelle",
@@ -721,7 +721,7 @@
   },
   {
     "name": "Le Morvan",
-    "adress": "6 rue des Écoles, Quarré-les-Tombes, 89630, France",
+    "adress": "6 rue des Ecoles, Quarre-les-Tombes, 89630, France",
     "price": "26-59EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -729,7 +729,7 @@
     "link": "www.le-morvan.fr"
   },
   {
-    "name": "La Longère",
+    "name": "La Longere",
     "adress": "1c rue du Docteur-Couderc, Le Neubourg, 27110, France",
     "price": "25-69EUR",
     "type": "Cuisine moderne",
@@ -738,8 +738,8 @@
     "link": "www.restaurant-la-longere.fr"
   },
   {
-    "name": "La Table d'Élise",
-    "adress": "5 rue Marie-Lemonnier, L'Herbaudière, 85330, France",
+    "name": "La Table d'Elise",
+    "adress": "5 rue Marie-Lemonnier, L'Herbaudiere, 85330, France",
     "price": "22-33EUR",
     "type": "Poissons et fruits de mer",
     "experience": "Assez confortable",
@@ -765,7 +765,7 @@
     "link": "www.auberge-lentaise.fr"
   },
   {
-    "name": "Auberge de la Rivière",
+    "name": "Auberge de la Riviere",
     "adress": "rue du Port-de-la-Fouarne, Velluire, 85770, France",
     "price": "34-75EUR",
     "type": "Cuisine moderne",
@@ -775,7 +775,7 @@
   },
   {
     "name": "La Ferme de Villeneuve",
-    "adress": "28 rue du Pré-Etienne, Château-d'Olonne, 85180, France",
+    "adress": "28 rue du Pre-Etienne, Chateau-d'Olonne, 85180, France",
     "price": "23-49EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -784,7 +784,7 @@
   },
   {
     "name": "Nougier",
-    "adress": "2 place de l'Église, Fursac, 23290, France",
+    "adress": "2 place de l'Eglise, Fursac, 23290, France",
     "price": "29-65EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -801,7 +801,7 @@
     "link": "www.lartysan.com"
   },
   {
-    "name": "Café des Arts",
+    "name": "Cafe des Arts",
     "adress": "2 rue de la Poste, Beaulieu-sous-la-Roche, 85190, France",
     "price": "24-66EUR",
     "type": "Cuisine traditionnelle",
@@ -810,7 +810,7 @@
     "link": "www.lecafedesarts-beaulieu.com"
   },
   {
-    "name": "Les Canailles Ménilmontant",
+    "name": "Les Canailles Menilmontant",
     "adress": "15 rue des Panoyaux, Paris, 75020, France",
     "price": "19-50EUR",
     "type": "Cuisine traditionnelle",
@@ -820,7 +820,7 @@
   },
   {
     "name": "Aux Plaisirs des Halles",
-    "adress": "4 rue Littré, Nîmes, 30000, France",
+    "adress": "4 rue Littre, Nimes, 30000, France",
     "price": "25-70EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -828,8 +828,8 @@
     "link": "www.auxplaisirsdeshalles.com"
   },
   {
-    "name": "La Chaumière",
-    "adress": "2 rue Paul-Lasnier, Aubigny-sur-Nère, 18700, France",
+    "name": "La Chaumiere",
+    "adress": "2 rue Paul-Lasnier, Aubigny-sur-Nere, 18700, France",
     "price": "24-59EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable. Nos établissements de charme.",
@@ -838,7 +838,7 @@
   },
   {
     "name": "Manoir Hastings",
-    "adress": "18 avenue de la Côte-de-Nacre, Bénouville, 14970, France",
+    "adress": "18 avenue de la Cote-de-Nacre, Benouville, 14970, France",
     "price": "26-70EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -855,7 +855,7 @@
     "link": "www.lartgourmand.com"
   },
   {
-    "name": "Bürestubel",
+    "name": "Burestubel",
     "adress": "8 rue de Lampertheim, Pfulgriesheim, 67370, France",
     "price": "20-45EUR",
     "type": "Cuisine alsacienne",
@@ -874,7 +874,7 @@
   },
   {
     "name": "Le Clos de la Fontaine",
-    "adress": "9 rue du Général-de-Gaulle, Guingamp, 22200, France",
+    "adress": "9 rue du General-de-Gaulle, Guingamp, 22200, France",
     "price": "18-55EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -883,7 +883,7 @@
   },
   {
     "name": "Olive et Artichaut",
-    "adress": "6 rue Ste-Réparate, Nice, 06000, France",
+    "adress": "6 rue Ste-Reparate, Nice, 06000, France",
     "price": "33-59EUR",
     "type": "Cuisine régionale",
     "experience": "Assez confortable",
@@ -891,7 +891,7 @@
     "link": "www.oliveartichaut.com"
   },
   {
-    "name": "La Chênaie",
+    "name": "La Chenaie",
     "adress": "rue du Lejat - lieu-dit La Berlanderie, Croutelle, 86240, France",
     "price": "21-88EUR",
     "type": "Cuisine traditionnelle",
@@ -909,8 +909,8 @@
     "link": "www.aubergesaintfiacre.com"
   },
   {
-    "name": "La Récréation Gourmande",
-    "adress": "3 rue de l'Ancienne-École, Villegenon, 18260, France",
+    "name": "La Recreation Gourmande",
+    "adress": "3 rue de l'Ancienne-Ecole, Villegenon, 18260, France",
     "price": "14-40EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -919,7 +919,7 @@
   },
   {
     "name": "La Table d'Yves",
-    "adress": "1357 route de Fréjus, Fayence, 83440, France",
+    "adress": "1357 route de Frejus, Fayence, 83440, France",
     "price": "34-78EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable. Nos établissements de charme.",
@@ -927,8 +927,8 @@
     "link": "www.latabledyves.com"
   },
   {
-    "name": "Auberge de La Mère Duval",
-    "adress": "Place Daniel-Boucour, Val-de-Saâne, 76890, France",
+    "name": "Auberge de La Mere Duval",
+    "adress": "Place Daniel-Boucour, Val-de-Saane, 76890, France",
     "price": "25-62EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -937,7 +937,7 @@
   },
   {
     "name": "Le Bistrot Saint Jean",
-    "adress": "Avenue Henri-de-la-Tourfondue, Montluçon, 03100, France",
+    "adress": "Avenue Henri-de-la-Tourfondue, Montlucon, 03100, France",
     "price": "33-59EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -991,7 +991,7 @@
   },
   {
     "name": "Boulevard 45",
-    "adress": "45 boulevard de la République, Royan, 17200, France",
+    "adress": "45 boulevard de la Republique, Royan, 17200, France",
     "price": "28-37EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -1036,7 +1036,7 @@
   },
   {
     "name": "Essentiel",
-    "adress": "11 rue Armand-Rébillon, Rennes, 35000, France",
+    "adress": "11 rue Armand-Rebillon, Rennes, 35000, France",
     "price": "22-45EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -1054,7 +1054,7 @@
   },
   {
     "name": "La Taverne Alsacienne",
-    "adress": "99 rue de la République, Ingersheim, 68040, France",
+    "adress": "99 rue de la Republique, Ingersheim, 68040, France",
     "price": "19-66EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -1071,7 +1071,7 @@
     "link": "www.cucina-mutualite.com"
   },
   {
-    "name": "Bistro À Côté",
+    "name": "Bistro A Cote",
     "adress": "21 rue des Carmes, Arles, 13200, France",
     "price": "33EUR",
     "type": "Cuisine provençale",
@@ -1081,7 +1081,7 @@
   },
   {
     "name": "L'Estacade",
-    "adress": "4 quai du Lénigo, Le Croisic, 44490, France",
+    "adress": "4 quai du Lenigo, Le Croisic, 44490, France",
     "price": "21-75EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -1108,7 +1108,7 @@
   },
   {
     "name": "Le Saint-Jacques",
-    "adress": "Place du Monument, Thorigné-sur-Dué, 72160, France",
+    "adress": "Place du Monument, Thorigne-sur-Due, 72160, France",
     "price": "33-60EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -1116,8 +1116,8 @@
     "link": "www.hotel-sarthe.fr"
   },
   {
-    "name": "Le Grand St-Benoît",
-    "adress": "7 place St-André, Saint-Benoît-sur-Loire, 45730, France",
+    "name": "Le Grand St-Benoit",
+    "adress": "7 place St-Andre, Saint-Benoit-sur-Loire, 45730, France",
     "price": "34-59EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -1125,8 +1125,8 @@
     "link": "www.restaurant-grand-saint-benoit.com"
   },
   {
-    "name": "La Table Bâgésienne",
-    "adress": "19 Grande-Rue, Bâgé-le-Châtel, 01380, France",
+    "name": "La Table Bagesienne",
+    "adress": "19 Grande-Rue, Bage-le-Chatel, 01380, France",
     "price": "34-82EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -1135,7 +1135,7 @@
   },
   {
     "name": "Auberge des 3 J",
-    "adress": "1 place du Docteur-Gireaux, Nocé, 61340, France",
+    "adress": "1 place du Docteur-Gireaux, Noce, 61340, France",
     "price": "28-45EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -1144,7 +1144,7 @@
   },
   {
     "name": "La Table d'Antan",
-    "adress": "38 avenue de la Grande-Charmille-du-Parc, Sainte-Geneviève-des-Bois, 91700, France",
+    "adress": "38 avenue de la Grande-Charmille-du-Parc, Sainte-Genevieve-des-Bois, 91700, France",
     "price": "32-63EUR",
     "type": "Cuisine du Sud-Ouest",
     "experience": "Confortable",
@@ -1162,7 +1162,7 @@
   },
   {
     "name": "Bistrotters",
-    "adress": "9 rue Decrès, Paris, 75014, France",
+    "adress": "9 rue Decres, Paris, 75014, France",
     "price": "23-37EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -1171,7 +1171,7 @@
   },
   {
     "name": "Au Chapeau Rouge",
-    "adress": "49 place du Général-de-Gaulle, Chinon, 37500, France",
+    "adress": "49 place du General-de-Gaulle, Chinon, 37500, France",
     "price": "30-46EUR",
     "type": "Cuisine du terroir",
     "experience": "Confortable",
@@ -1206,7 +1206,7 @@
     "link": ""
   },
   {
-    "name": "Ô Saveurs",
+    "name": "O Saveurs",
     "adress": "38 rue Georges-Clemenceau, Falaise, 14700, France",
     "price": "22-61EUR",
     "type": "Cuisine moderne",
@@ -1225,7 +1225,7 @@
   },
   {
     "name": "Le Bistrot",
-    "adress": "5 chemin de l'Étang-du-Moulin, Bonnétage, 25210, France",
+    "adress": "5 chemin de l'Etang-du-Moulin, Bonnetage, 25210, France",
     "price": "19-57EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -1233,7 +1233,7 @@
     "link": "www.etang-du-moulin.com"
   },
   {
-    "name": "La Cour de Rémi",
+    "name": "La Cour de Remi",
     "adress": "1 rue Baillet, Bermicourt, 62130, France",
     "price": "32-40EUR",
     "type": "Cuisine traditionnelle",
@@ -1243,7 +1243,7 @@
   },
   {
     "name": "La Bartavelle",
-    "adress": "24 rue de la République, Argelès-sur-Mer, 66700, France",
+    "adress": "24 rue de la Republique, Argeles-sur-Mer, 66700, France",
     "price": "31-63EUR",
     "type": "Cuisine créative",
     "experience": "Assez confortable",
@@ -1251,7 +1251,7 @@
     "link": "www.restaurant-labartavelle.fr"
   },
   {
-    "name": "Sauf Imprévu",
+    "name": "Sauf Imprevu",
     "adress": "40 rue Pierre-Corneille, Lyon, 69006, France",
     "price": "26-29EUR",
     "type": "Cuisine traditionnelle",
@@ -1278,8 +1278,8 @@
     "link": "www.auboutdelarue.com"
   },
   {
-    "name": "Jeux 2 Goûts",
-    "adress": "40 rue Grande, Châteauroux, 36000, France",
+    "name": "Jeux 2 Gouts",
+    "adress": "40 rue Grande, Chateauroux, 36000, France",
     "price": "18-52EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -1315,7 +1315,7 @@
   },
   {
     "name": "Maison Chabran - Espace Gourmand",
-    "adress": "26 avenue du 45ème-Parallèle, Pont-de-l'Isère, 26600, France",
+    "adress": "26 avenue du 45eme-Parallele, Pont-de-l'Isere, 26600, France",
     "price": "34-79EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -1323,7 +1323,7 @@
     "link": "www.maisonchabran.com"
   },
   {
-    "name": "L'Altévic",
+    "name": "L'Altevic",
     "adress": "4 rue du Wiggensbach, Hattstatt, 68420, France",
     "price": "22-78EUR",
     "type": "Cuisine moderne",
@@ -1369,7 +1369,7 @@
   },
   {
     "name": "Les Coloquintes",
-    "adress": "Quai de l'Ardèche, Aubenas, 07200, France",
+    "adress": "Quai de l'Ardeche, Aubenas, 07200, France",
     "price": "20-51EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -1378,7 +1378,7 @@
   },
   {
     "name": "La P'tite Cour",
-    "adress": "6 rue Barthélemy-de-Don, Sanary-sur-Mer, 83110, France",
+    "adress": "6 rue Barthelemy-de-Don, Sanary-sur-Mer, 83110, France",
     "price": "30-45EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -1387,7 +1387,7 @@
   },
   {
     "name": "La Bergerie",
-    "adress": "Allée Pech Marie, Aragon, 11600, France",
+    "adress": "Allee Pech Marie, Aragon, 11600, France",
     "price": "33EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -1405,7 +1405,7 @@
   },
   {
     "name": "Esttia",
-    "adress": "11 rue de la Grande-Chaumière, Paris, 75006, France",
+    "adress": "11 rue de la Grande-Chaumiere, Paris, 75006, France",
     "price": "22-36EUR",
     "type": "Cuisine méditerranéenne",
     "experience": "Assez confortable",
@@ -1432,7 +1432,7 @@
   },
   {
     "name": "France et Fuchsias",
-    "adress": "20 rue du Maréchal-Foch, Saint-Vaast-la-Hougue, 50550, France",
+    "adress": "20 rue du Marechal-Foch, Saint-Vaast-la-Hougue, 50550, France",
     "price": "33-83EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -1440,8 +1440,8 @@
     "link": "www.france-fuchsias.com"
   },
   {
-    "name": "Hostellerie Saint-Clément",
-    "adress": "Col de Curebourse, Saint-Clément, 15800, France",
+    "name": "Hostellerie Saint-Clement",
+    "adress": "Col de Curebourse, Saint-Clement, 15800, France",
     "price": "32-80EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -1450,7 +1450,7 @@
   },
   {
     "name": "L'Instant...",
-    "adress": "13/14 chemin du Logis-Vieux, Montrabé, 31850, France",
+    "adress": "13/14 chemin du Logis-Vieux, Montrabe, 31850, France",
     "price": "19-55EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -1476,7 +1476,7 @@
     "link": "www.clamato-charonne.fr"
   },
   {
-    "name": "Au Lion d'Or - Chez Théo",
+    "name": "Au Lion d'Or - Chez Theo",
     "adress": "5 rue Village-Neuf, Rosenau, 68128, France",
     "price": "23-62EUR",
     "type": "Cuisine moderne",
@@ -1485,7 +1485,7 @@
     "link": "www.auliondor-rosenau.com"
   },
   {
-    "name": "Côté Bistro",
+    "name": "Cote Bistro",
     "adress": "25 rue de Chambord, Montlivault, 41350, France",
     "price": "32EUR",
     "type": "Cuisine traditionnelle",
@@ -1513,7 +1513,7 @@
   },
   {
     "name": "Gabbro",
-    "adress": "55 Rue Saint-André, Lille, 59000, France",
+    "adress": "55 Rue Saint-Andre, Lille, 59000, France",
     "price": "30-42EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -1521,8 +1521,8 @@
     "link": ""
   },
   {
-    "name": "Épices et Tout",
-    "adress": "15 avenue Carnot, Alès, 30100, France",
+    "name": "Epices et Tout",
+    "adress": "15 avenue Carnot, Ales, 30100, France",
     "price": "20-37EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -1530,7 +1530,7 @@
     "link": "www.epicesettout.fr"
   },
   {
-    "name": "Une Table à Deux",
+    "name": "Une Table a Deux",
     "adress": "10 rue de la Pleau, Toulouse, 31000, France",
     "price": "19-55EUR",
     "type": "Cuisine moderne",
@@ -1548,7 +1548,7 @@
     "link": "www.gavrinis.com"
   },
   {
-    "name": "La Ferme Saint-Sébastien",
+    "name": "La Ferme Saint-Sebastien",
     "adress": "chemin de Bourion, Charroux, 03140, France",
     "price": "28-69EUR",
     "type": "Cuisine moderne",
@@ -1557,7 +1557,7 @@
     "link": "www.fermesaintsebastien.fr"
   },
   {
-    "name": "Café Lavinal",
+    "name": "Cafe Lavinal",
     "adress": "place Desquet, Pauillac, 33250, France",
     "price": "29-57EUR",
     "type": "Cuisine traditionnelle",
@@ -1567,7 +1567,7 @@
   },
   {
     "name": "L'Embellie",
-    "adress": "le Bourg, Sainte-Cécile, 71250, France",
+    "adress": "le Bourg, Sainte-Cecile, 71250, France",
     "price": "18-63EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -1575,8 +1575,8 @@
     "link": "www.restaurant-lembellie.com"
   },
   {
-    "name": "Auberge de l'Île",
-    "adress": "3 place Bouchard, L'Île-Bouchard, 37220, France",
+    "name": "Auberge de l'Ile",
+    "adress": "3 place Bouchard, L'Ile-Bouchard, 37220, France",
     "price": "33-56EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -1585,7 +1585,7 @@
   },
   {
     "name": "Au Bon Pichet",
-    "adress": "10 place du Marché-aux-Choux, Sélestat, 67600, France",
+    "adress": "10 place du Marche-aux-Choux, Selestat, 67600, France",
     "price": "23-33EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -1621,7 +1621,7 @@
   },
   {
     "name": "L'Hibiscus",
-    "adress": "175 rue de Bourgogne, Orléans, 45000, France",
+    "adress": "175 rue de Bourgogne, Orleans, 45000, France",
     "price": "32-41EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -1630,7 +1630,7 @@
   },
   {
     "name": "L'Atelier Bistrot",
-    "adress": "24 rue Duchelas, Langoëlan, 56160, France",
+    "adress": "24 rue Duchelas, Langoelan, 56160, France",
     "price": "13-40EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -1648,7 +1648,7 @@
   },
   {
     "name": "Le Lisita",
-    "adress": "2 boulevard des Arènes, Nîmes, 30000, France",
+    "adress": "2 boulevard des Arenes, Nimes, 30000, France",
     "price": "34EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -1656,7 +1656,7 @@
     "link": "www.lelisita.com"
   },
   {
-    "name": "Dépôt Légal",
+    "name": "Depot Legal",
     "adress": "6 rue des Petits-Champs, Paris, 75002, France",
     "price": "30-45EUR",
     "type": "Cuisine moderne",
@@ -1665,7 +1665,7 @@
     "link": "www.depotlegalparis.com"
   },
   {
-    "name": "Ô en Couleur",
+    "name": "O en Couleur",
     "adress": "9 rue de Beaugency, Oucques, 41290, France",
     "price": "28-78EUR",
     "type": "Cuisine moderne",
@@ -1675,7 +1675,7 @@
   },
   {
     "name": "Comptoir des Voyageurs",
-    "adress": "Place de l'Église, Locronan, 29180, France",
+    "adress": "Place de l'Eglise, Locronan, 29180, France",
     "price": "23-59EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -1693,7 +1693,7 @@
   },
   {
     "name": "La Table d'Auzeville",
-    "adress": "35 chemin de l'Église, Auzeville-Tolosane, 31320, France",
+    "adress": "35 chemin de l'Eglise, Auzeville-Tolosane, 31320, France",
     "price": "19-100EUR",
     "type": "Cuisine classique",
     "experience": "Confortable",
@@ -1728,7 +1728,7 @@
     "link": "www.le-bourbon.com"
   },
   {
-    "name": "L'Océanide",
+    "name": "L'Oceanide",
     "adress": "2 rue Paul-Bellamy, Nantes, 44000, France",
     "price": "22-98EUR",
     "type": "Poissons et fruits de mer",
@@ -1738,7 +1738,7 @@
   },
   {
     "name": "Pica Pica",
-    "adress": "20 boulevard Jean-Jaurès, Béziers, 34500, France",
+    "adress": "20 boulevard Jean-Jaures, Beziers, 34500, France",
     "price": "23-55EUR",
     "type": "Cuisine méditerranéenne",
     "experience": "Assez confortable",
@@ -1747,7 +1747,7 @@
   },
   {
     "name": "La Maison Tourangelle",
-    "adress": "9 route des Grottes-Pétrifiantes, Savonnières, 37510, France",
+    "adress": "9 route des Grottes-Petrifiantes, Savonnieres, 37510, France",
     "price": "34-110EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -1756,7 +1756,7 @@
   },
   {
     "name": "La Quincaillerie",
-    "adress": "30 Rue de l'Hôtel de Ville, Montendre, 17130, France",
+    "adress": "30 Rue de l'Hotel de Ville, Montendre, 17130, France",
     "price": "22-75EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -1773,7 +1773,7 @@
     "link": "www.bistrourbain.com"
   },
   {
-    "name": "Le Brézoune",
+    "name": "Le Brezoune",
     "adress": "15 rue de la Poste, Ploufragan, 22440, France",
     "price": "19-60EUR",
     "type": "Cuisine moderne",
@@ -1783,7 +1783,7 @@
   },
   {
     "name": "Le Jardin des Brouches",
-    "adress": "1 boulevard de l'Hypéron, Bagnères-de-Bigorre, 65200, France",
+    "adress": "1 boulevard de l'Hyperon, Bagneres-de-Bigorre, 65200, France",
     "price": "21-65EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -1819,7 +1819,7 @@
   },
   {
     "name": "Auberge des Tilleuls",
-    "adress": "8 place de l'Église, Messigny-et-Vantoux, 21380, France",
+    "adress": "8 place de l'Eglise, Messigny-et-Vantoux, 21380, France",
     "price": "22-32EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -1837,7 +1837,7 @@
   },
   {
     "name": "Sodade",
-    "adress": "21 avenue du Président-Georges-Pompidou, Chaudes-Aigues, 15110, France",
+    "adress": "21 avenue du President-Georges-Pompidou, Chaudes-Aigues, 15110, France",
     "price": "32-50EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -1864,7 +1864,7 @@
   },
   {
     "name": "La Table d'Inomoto",
-    "adress": "85 rue Nationale, Saint-André-de-Cubzac, 33240, France",
+    "adress": "85 rue Nationale, Saint-Andre-de-Cubzac, 33240, France",
     "price": "17-40EUR",
     "type": "Cuisine Fusion",
     "experience": "Assez confortable",
@@ -1873,7 +1873,7 @@
   },
   {
     "name": "Auberge du Parc Carola",
-    "adress": "48 route de Bergheim, Ribeauvillé, 68150, France",
+    "adress": "48 route de Bergheim, Ribeauville, 68150, France",
     "price": "27-75EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -1899,7 +1899,7 @@
     "link": "www.lesplaisirs-peillon.com"
   },
   {
-    "name": "La Verrière",
+    "name": "La Verriere",
     "adress": "15 avenue des Reynats, Chancelade, 24650, France",
     "price": "26EUR",
     "type": "Cuisine moderne",
@@ -1908,7 +1908,7 @@
     "link": "www.chateau-hotel-perigord.com"
   },
   {
-    "name": "Auberge de Port Vallières",
+    "name": "Auberge de Port Vallieres",
     "adress": "195 quai des Bateliers, Fondettes, 37230, France",
     "price": "23-78EUR",
     "type": "Cuisine traditionnelle",
@@ -1926,7 +1926,7 @@
     "link": "www.chateauberne.com"
   },
   {
-    "name": "Winstub À Côté",
+    "name": "Winstub A Cote",
     "adress": "2 rue Rogg-Haas, Sierentz, 68510, France",
     "price": "20-48EUR",
     "type": "Cuisine régionale",
@@ -1944,7 +1944,7 @@
     "link": "www.voyagesdessens.com"
   },
   {
-    "name": "Ô Saveurs",
+    "name": "O Saveurs",
     "adress": "10 rue Jules-Ferry, Saint-Brieuc, 22000, France",
     "price": "30-59EUR",
     "type": "Cuisine moderne",
@@ -1954,7 +1954,7 @@
   },
   {
     "name": "Les Flots",
-    "adress": "52 boulevard de la Mer, Châtelaillon-Plage, 17340, France",
+    "adress": "52 boulevard de la Mer, Chatelaillon-Plage, 17340, France",
     "price": "31-58EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -1963,7 +1963,7 @@
   },
   {
     "name": "La Chaize Gourmande",
-    "adress": "2 place du Marché, La Chaize-Giraud, 85220, France",
+    "adress": "2 place du Marche, La Chaize-Giraud, 85220, France",
     "price": "18-37EUR",
     "type": "Cuisine du marché",
     "experience": "Assez confortable",
@@ -1981,7 +1981,7 @@
   },
   {
     "name": "Bistrot Gourmand",
-    "adress": "Le Fornet, Val-d'Isère, 73150, France",
+    "adress": "Le Fornet, Val-d'Isere, 73150, France",
     "price": "33EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -2016,8 +2016,8 @@
     "link": "www.bistrotconstant.com"
   },
   {
-    "name": "Le François II",
-    "adress": "5 place Aristide-Briand, Couëron, 44220, France",
+    "name": "Le Francois II",
+    "adress": "5 place Aristide-Briand, Coueron, 44220, France",
     "price": "18-57EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -2026,7 +2026,7 @@
   },
   {
     "name": "La Colombe",
-    "adress": "663 route de Toulon, Hyères, 83400, France",
+    "adress": "663 route de Toulon, Hyeres, 83400, France",
     "price": "32-76EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -2035,7 +2035,7 @@
   },
   {
     "name": "L'Escargot",
-    "adress": "30 rue du Maréchal-Leclerc, Saumur, 49400, France",
+    "adress": "30 rue du Marechal-Leclerc, Saumur, 49400, France",
     "price": "21-40EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -2043,7 +2043,7 @@
     "link": ""
   },
   {
-    "name": "La Toile à Beurre",
+    "name": "La Toile a Beurre",
     "adress": "82 rue Saint-Pierre, Ancenis, 44150, France",
     "price": "18-55EUR",
     "type": "Cuisine moderne",
@@ -2053,7 +2053,7 @@
   },
   {
     "name": "Ttotta",
-    "adress": "Espace Ibarrondoan, Saint-Pée-sur-Nivelle, 64310, France",
+    "adress": "Espace Ibarrondoan, Saint-Pee-sur-Nivelle, 64310, France",
     "price": "15-47EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -2071,7 +2071,7 @@
   },
   {
     "name": "Le Vioben",
-    "adress": "30 Ar Palud, Landéda, 29870, France",
+    "adress": "30 Ar Palud, Landeda, 29870, France",
     "price": "23-90EUR",
     "type": "Poissons et fruits de mer",
     "experience": "Assez confortable",
@@ -2079,7 +2079,7 @@
     "link": "www.vioben.com"
   },
   {
-    "name": "La Forêt",
+    "name": "La Foret",
     "adress": "22 rue de Verdun, Senonches, 28250, France",
     "price": "18-70EUR",
     "type": "Cuisine moderne",
@@ -2089,7 +2089,7 @@
   },
   {
     "name": "Quai 17",
-    "adress": "17 quai Maréchal-de-Lattre-de-Tassigny, Sète, 34200, France",
+    "adress": "17 quai Marechal-de-Lattre-de-Tassigny, Sete, 34200, France",
     "price": "33-75EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -2116,7 +2116,7 @@
   },
   {
     "name": "Le Moulin Fouret",
-    "adress": "2 route du Moulin-Fouret, à Saint-Aubin-le-Vertueux, Bernay, 27300, France",
+    "adress": "2 route du Moulin-Fouret, a Saint-Aubin-le-Vertueux, Bernay, 27300, France",
     "price": "26-69EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -2133,8 +2133,8 @@
     "link": "www.hotel4saisons.com"
   },
   {
-    "name": "Sémantème",
-    "adress": "73 rue Masséna, Lyon, 69006, France",
+    "name": "Semanteme",
+    "adress": "73 rue Massena, Lyon, 69006, France",
     "price": "34-60EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -2143,7 +2143,7 @@
   },
   {
     "name": "Le Capucin Gourmand",
-    "adress": "1520 route de Genève, Vougy, 74130, France",
+    "adress": "1520 route de Geneve, Vougy, 74130, France",
     "price": "33-66EUR",
     "type": "Cuisine classique",
     "experience": "Confortable",
@@ -2151,7 +2151,7 @@
     "link": "www.lecapucingourmand.com"
   },
   {
-    "name": "Hôtel de France",
+    "name": "Hotel de France",
     "adress": "1 rue Marx-Dormoy, Montmarault, 03390, France",
     "price": "34-71EUR",
     "type": "Cuisine moderne",
@@ -2196,8 +2196,8 @@
     "link": "www.auberge-dupasdevent.com"
   },
   {
-    "name": "Le Théâtre",
-    "adress": "8 place Mendes-France, Épernay, 51200, France",
+    "name": "Le Theatre",
+    "adress": "8 place Mendes-France, Epernay, 51200, France",
     "price": "27-54EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -2215,7 +2215,7 @@
   },
   {
     "name": "La Petite Ourse",
-    "adress": "48 boulevard de la Liberté, Rennes, 35000, France",
+    "adress": "48 boulevard de la Liberte, Rennes, 35000, France",
     "price": "17EUR",
     "type": "Cuisine du marché",
     "experience": "Assez confortable",
@@ -2233,7 +2233,7 @@
   },
   {
     "name": "Balsamique",
-    "adress": "13 place du Général-de-Gaulle, Wambrechies, 59118, France",
+    "adress": "13 place du General-de-Gaulle, Wambrechies, 59118, France",
     "price": "33-59EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -2251,7 +2251,7 @@
   },
   {
     "name": "Le Local",
-    "adress": "455 Littoral Frédéric-Mistral, Toulon, 83000, France",
+    "adress": "455 Littoral Frederic-Mistral, Toulon, 83000, France",
     "price": "35EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -2269,7 +2269,7 @@
   },
   {
     "name": "Arbequina",
-    "adress": "21 rue de la République, Thuir, 66300, France",
+    "adress": "21 rue de la Republique, Thuir, 66300, France",
     "price": "18-46EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -2277,8 +2277,8 @@
     "link": "www.arbequina-restaurant.com"
   },
   {
-    "name": "L'Équilibre",
-    "adress": "10 place de la Libération, Balma, 31130, France",
+    "name": "L'Equilibre",
+    "adress": "10 place de la Liberation, Balma, 31130, France",
     "price": "25-55EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -2287,7 +2287,7 @@
   },
   {
     "name": "Le Bistro d'en Face",
-    "adress": "1 rue Fénelon, Bergerac, 24100, France",
+    "adress": "1 rue Fenelon, Bergerac, 24100, France",
     "price": "28-37EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -2295,7 +2295,7 @@
     "link": ""
   },
   {
-    "name": "Au Côte d'Argent",
+    "name": "Au Cote d'Argent",
     "adress": "1 digue Gaston-Berthe, Calais, 62100, France",
     "price": "22-68EUR",
     "type": "Poissons et fruits de mer",
@@ -2305,7 +2305,7 @@
   },
   {
     "name": "Le Coq d'Or",
-    "adress": "7 place du Champ-de-Foire, Chénérailles, 23130, France",
+    "adress": "7 place du Champ-de-Foire, Chenerailles, 23130, France",
     "price": "25-61EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -2314,7 +2314,7 @@
   },
   {
     "name": "Mets et Vins",
-    "adress": "11 rue de la République, Bourg-en-Bresse, 01000, France",
+    "adress": "11 rue de la Republique, Bourg-en-Bresse, 01000, France",
     "price": "19-69EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -2322,7 +2322,7 @@
     "link": "www.restaurant-metsetvins.com"
   },
   {
-    "name": "Les Grands Arbres - Verte Vallée",
+    "name": "Les Grands Arbres - Verte Vallee",
     "adress": "10 rue Alfred-Hartmann, Munster, 68140, France",
     "price": "20-58EUR",
     "type": "Cuisine moderne",
@@ -2332,7 +2332,7 @@
   },
   {
     "name": "Vegan Gorilla",
-    "adress": "7 rue du Lycée, Nice, 06000, France",
+    "adress": "7 rue du Lycee, Nice, 06000, France",
     "price": "30-33EUR",
     "type": "Cuisine végétarienne",
     "experience": "Assez confortable",
@@ -2340,7 +2340,7 @@
     "link": "www.restaurant-vegan.fr"
   },
   {
-    "name": "La Télécabine",
+    "name": "La Telecabine",
     "adress": "27 rue de la Tour, Chamonix-Mont-Blanc, 74400, France",
     "price": "28-69EUR",
     "type": "Cuisine traditionnelle",
@@ -2358,8 +2358,8 @@
     "link": "www.hotel-capcoz.com"
   },
   {
-    "name": "Chai l'amère Kolette",
-    "adress": "Parc d'activités de Kernours, Kervignac, 56700, France",
+    "name": "Chai l'amere Kolette",
+    "adress": "Parc d'activites de Kernours, Kervignac, 56700, France",
     "price": "19-55EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -2367,7 +2367,7 @@
     "link": ""
   },
   {
-    "name": "L'Aubépine",
+    "name": "L'Aubepine",
     "adress": "13 boulevard Jean-Mathon, Aubenas, 07200, France",
     "price": "23-50EUR",
     "type": "Cuisine moderne",
@@ -2385,7 +2385,7 @@
     "link": "www.aubergedebardigues.com"
   },
   {
-    "name": "Côté Bastide",
+    "name": "Cote Bastide",
     "adress": "4 rue de l'Abattoir, Sainte-Foy-la-Grande, 33220, France",
     "price": "27-37EUR",
     "type": "Cuisine moderne",
@@ -2421,8 +2421,8 @@
     "link": "www.lacapitelle.com"
   },
   {
-    "name": "La Table de Léo",
-    "adress": "Le Bourg, Saint-Avit-Sénieur, 24440, France",
+    "name": "La Table de Leo",
+    "adress": "Le Bourg, Saint-Avit-Senieur, 24440, France",
     "price": "33-42EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -2449,7 +2449,7 @@
   },
   {
     "name": "Au Fil des Saisons",
-    "adress": "3 rue de la Libération, Étupes, 25460, France",
+    "adress": "3 rue de la Liberation, Etupes, 25460, France",
     "price": "26-66EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -2476,7 +2476,7 @@
   },
   {
     "name": "Le Saint Joseph",
-    "adress": "100 boulevard de la République, La Garenne-Colombes, 92250, France",
+    "adress": "100 boulevard de la Republique, La Garenne-Colombes, 92250, France",
     "price": "35-60EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -2484,8 +2484,8 @@
     "link": "www.lesaintjoseph-restaurant.fr"
   },
   {
-    "name": "Le Patio by Lou Caléou",
-    "adress": "23 place de la Libération, Sommières, 30250, France",
+    "name": "Le Patio by Lou Caleou",
+    "adress": "23 place de la Liberation, Sommieres, 30250, France",
     "price": "25-66EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -2494,7 +2494,7 @@
   },
   {
     "name": "Chez Mon Jules",
-    "adress": "5 rue Étienne-de-Vesc, Vesc, 26220, France",
+    "adress": "5 rue Etienne-de-Vesc, Vesc, 26220, France",
     "price": "34-57EUR",
     "type": "Cuisine du terroir",
     "experience": "Assez confortable",
@@ -2529,7 +2529,7 @@
     "link": "www.lacharrettebleue.net"
   },
   {
-    "name": "L'Oustalet Maïanen",
+    "name": "L'Oustalet Maianen",
     "adress": "16 avenue Lamartine, Maillane, 13910, France",
     "price": "34-58EUR",
     "type": "Cuisine provençale",
@@ -2548,7 +2548,7 @@
   },
   {
     "name": "Le Clos aux Roses",
-    "adress": "2 rue du Lavoir, Chédigny, 37310, France",
+    "adress": "2 rue du Lavoir, Chedigny, 37310, France",
     "price": "32-58EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable. Nos établissements de charme.",
@@ -2557,7 +2557,7 @@
   },
   {
     "name": "Bistrot du Pollet",
-    "adress": "23 rue Tête-de-Boeuf, Dieppe, 76200, France",
+    "adress": "23 rue Tete-de-Boeuf, Dieppe, 76200, France",
     "price": "30-45EUR",
     "type": "Poissons et fruits de mer",
     "experience": "Assez confortable",
@@ -2566,7 +2566,7 @@
   },
   {
     "name": "Au Raisin d'Or",
-    "adress": "1 rue de l'Église, Zimmerbach, 68230, France",
+    "adress": "1 rue de l'Eglise, Zimmerbach, 68230, France",
     "price": "16-47EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -2583,7 +2583,7 @@
     "link": "www.restaurant-la-gare-ploubalay.com"
   },
   {
-    "name": "Le Bistrot d'à Côté",
+    "name": "Le Bistrot d'a Cote",
     "adress": "16 rue des Minimes, Clermont-Ferrand, 63000, France",
     "price": "18-55EUR",
     "type": "Cuisine moderne",
@@ -2593,7 +2593,7 @@
   },
   {
     "name": "Le Colvert",
-    "adress": "8 rue d'en Boyer, Saint-Lieux-lès-Lavaur, 81500, France",
+    "adress": "8 rue d'en Boyer, Saint-Lieux-les-Lavaur, 81500, France",
     "price": "15-55EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -2611,7 +2611,7 @@
   },
   {
     "name": "Saperlipopette !",
-    "adress": "9 place du Théâtre, Puteaux, 92800, France",
+    "adress": "9 place du Theatre, Puteaux, 92800, France",
     "price": "36-65EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -2628,8 +2628,8 @@
     "link": "www.madamerestaurant.fr"
   },
   {
-    "name": "Auberge La Gaillotière",
-    "adress": "Lieu-dit La Gaillotière, Château-Thébaud, 44690, France",
+    "name": "Auberge La Gaillotiere",
+    "adress": "Lieu-dit La Gaillotiere, Chateau-Thebaud, 44690, France",
     "price": "15-29EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -2637,8 +2637,8 @@
     "link": "www.auberge-la-gaillotiere.fr"
   },
   {
-    "name": "L'Espérance - Stéphane Carbone",
-    "adress": "512 rue Abbé-Alix, Hérouville-Saint-Clair, 14200, France",
+    "name": "L'Esperance - Stephane Carbone",
+    "adress": "512 rue Abbe-Alix, Herouville-Saint-Clair, 14200, France",
     "price": "22-63EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -2646,7 +2646,7 @@
     "link": "www.esperance-stephanecarbone.fr"
   },
   {
-    "name": "Le Pélican",
+    "name": "Le Pelican",
     "adress": "13 place Georges-Gaudet, Geneston, 44140, France",
     "price": "30-51EUR",
     "type": "Cuisine moderne",
@@ -2674,7 +2674,7 @@
   },
   {
     "name": "Le Bon Accueil",
-    "adress": "1 rue de Laval, Richardménil, 54630, France",
+    "adress": "1 rue de Laval, Richardmenil, 54630, France",
     "price": "32-65EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -2682,7 +2682,7 @@
     "link": "www.aubonaccueil-restaurant.com"
   },
   {
-    "name": "Estaminet à l'Agneau",
+    "name": "Estaminet a l'Agneau",
     "adress": "185 route de Lyon, Illkirch-Graffenstaden, 67400, France",
     "price": "30-39EUR",
     "type": "Cuisine traditionnelle",
@@ -2692,7 +2692,7 @@
   },
   {
     "name": "L'Atelier",
-    "adress": "2 rue Voltaire, Périgueux, 24000, France",
+    "adress": "2 rue Voltaire, Perigueux, 24000, France",
     "price": "24-69EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -2700,8 +2700,8 @@
     "link": "www.restaurant-perigueux-atelier.com"
   },
   {
-    "name": "Café A",
-    "adress": "280 allée du Jeune-Bayard, Saint-Martin-d'Uriage, 38410, France",
+    "name": "Cafe A",
+    "adress": "280 allee du Jeune-Bayard, Saint-Martin-d'Uriage, 38410, France",
     "price": "33EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable. Nos établissements de charme.",
@@ -2710,7 +2710,7 @@
   },
   {
     "name": "Aux Trois Pastoureaux",
-    "adress": "31 rue André-Gillet, Châteaudun, 28200, France",
+    "adress": "31 rue Andre-Gillet, Chateaudun, 28200, France",
     "price": "33-68EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -2728,7 +2728,7 @@
   },
   {
     "name": "L'Assiette au Jardin",
-    "adress": "9 rue du Robinet, Noirmoutier-en-l'Île, 85330, France",
+    "adress": "9 rue du Robinet, Noirmoutier-en-l'Ile, 85330, France",
     "price": "32-40EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -2736,8 +2736,8 @@
     "link": "https://lassietteaujardin.fr"
   },
   {
-    "name": "Le Médiéval",
-    "adress": "24 Grand'Rue, Puy-l'Évêque, 46700, France",
+    "name": "Le Medieval",
+    "adress": "24 Grand'Rue, Puy-l'Eveque, 46700, France",
     "price": "15-35EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -2746,7 +2746,7 @@
   },
   {
     "name": "La Table des Armaillis",
-    "adress": "97 rue des Prés, Les Saisies, 73620, France",
+    "adress": "97 rue des Pres, Les Saisies, 73620, France",
     "price": "32-65EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable. Nos établissements de charme.",
@@ -2764,7 +2764,7 @@
   },
   {
     "name": "La Ruche",
-    "adress": "13 quai du Docteur-Jules-Bouvat, Saint-Péray, 07130, France",
+    "adress": "13 quai du Docteur-Jules-Bouvat, Saint-Peray, 07130, France",
     "price": "24-35EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -2791,7 +2791,7 @@
   },
   {
     "name": "L'Univers",
-    "adress": "Place de la République, Villefranche-de-Rouergue, 12200, France",
+    "adress": "Place de la Republique, Villefranche-de-Rouergue, 12200, France",
     "price": "18-68EUR",
     "type": "Cuisine créative",
     "experience": "Assez confortable",
@@ -2799,8 +2799,8 @@
     "link": "www.lunivers-villefranche.com"
   },
   {
-    "name": "Côté Saisons",
-    "adress": "10 avenue de la Côte-Vermeille, Laroque-des-Albères, 66740, France",
+    "name": "Cote Saisons",
+    "adress": "10 avenue de la Cote-Vermeille, Laroque-des-Alberes, 66740, France",
     "price": "33-39EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable. Nos établissements de charme.",
@@ -2826,8 +2826,8 @@
     "link": "www.cheval-blanc-feldbach.fr"
   },
   {
-    "name": "L'Espérance",
-    "adress": "21 rue du Docteur-Louis-Marçon, Bandol, 83150, France",
+    "name": "L'Esperance",
+    "adress": "21 rue du Docteur-Louis-Marcon, Bandol, 83150, France",
     "price": "33-78EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -2845,7 +2845,7 @@
   },
   {
     "name": "Le Beaujolais",
-    "adress": "40 rue du Maréchal-Foch, Belleville, 69220, France",
+    "adress": "40 rue du Marechal-Foch, Belleville, 69220, France",
     "price": "19-46EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -2853,8 +2853,8 @@
     "link": "www.restaurant-le-beaujolais.com"
   },
   {
-    "name": "Auberge du Prieuré Normand",
-    "adress": "1 place de la République, Gasny, 27620, France",
+    "name": "Auberge du Prieure Normand",
+    "adress": "1 place de la Republique, Gasny, 27620, France",
     "price": "33-74EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -2863,7 +2863,7 @@
   },
   {
     "name": "Le Jean Moulin",
-    "adress": "45 rue de Sèze, Lyon, 69006, France",
+    "adress": "45 rue de Seze, Lyon, 69006, France",
     "price": "25-44EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -2871,8 +2871,8 @@
     "link": "www.lejeanmoulin-lyon.com"
   },
   {
-    "name": "Restaurant Arcé",
-    "adress": "route du col d'Ispéguy, Saint-Étienne-de-Baïgorry, 64430, France",
+    "name": "Restaurant Arce",
+    "adress": "route du col d'Ispeguy, Saint-Etienne-de-Baigorry, 64430, France",
     "price": "32-60EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable. Nos établissements de charme.",
@@ -2925,7 +2925,7 @@
     "link": "www.relaisdubois.com"
   },
   {
-    "name": "Côté Saveurs",
+    "name": "Cote Saveurs",
     "adress": "Place Louis Fontanges, Villefranche-de-Rouergue, 12200, France",
     "price": "23-70EUR",
     "type": "Cuisine moderne",
@@ -2934,8 +2934,8 @@
     "link": "www.cote-saveurs.fr"
   },
   {
-    "name": "Hostellerie d'Héloïse",
-    "adress": "7 route de Mâcon, Cluny, 71250, France",
+    "name": "Hostellerie d'Heloise",
+    "adress": "7 route de Macon, Cluny, 71250, France",
     "price": "29-60EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -2944,7 +2944,7 @@
   },
   {
     "name": "Le Vert d'O",
-    "adress": "94 rue de Guernevé, Saint-Gildas-de-Rhuys, 56730, France",
+    "adress": "94 rue de Guerneve, Saint-Gildas-de-Rhuys, 56730, France",
     "price": "29-50EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -2952,8 +2952,8 @@
     "link": "www.levertdo.fr"
   },
   {
-    "name": "L'Épicurien",
-    "adress": "42 place Jean-Jaurès, Albi, 81000, France",
+    "name": "L'Epicurien",
+    "adress": "42 place Jean-Jaures, Albi, 81000, France",
     "price": "22-55EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -2962,7 +2962,7 @@
   },
   {
     "name": "La Table D'eux - Laurent Le Berrigaud",
-    "adress": "route côtière D152, Guidel, 56520, France",
+    "adress": "route cotiere D152, Guidel, 56520, France",
     "price": "20-38EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -2970,8 +2970,8 @@
     "link": ""
   },
   {
-    "name": "Auberge Pyrénées Cévennes",
-    "adress": "106 rue de la Folie-Méricourt, Paris, 75011, France",
+    "name": "Auberge Pyrenees Cevennes",
+    "adress": "106 rue de la Folie-Mericourt, Paris, 75011, France",
     "price": "36-72EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -2979,8 +2979,8 @@
     "link": "www.auberge-pyrenees-cevennes.fr"
   },
   {
-    "name": "Daniel et Denise Créqui",
-    "adress": "156 rue de Créqui, Lyon, 69003, France",
+    "name": "Daniel et Denise Crequi",
+    "adress": "156 rue de Crequi, Lyon, 69003, France",
     "price": "31-64EUR",
     "type": "Cuisine lyonnaise",
     "experience": "Assez confortable",
@@ -3025,7 +3025,7 @@
   },
   {
     "name": "L'Auberge...",
-    "adress": "2590 route de Bailleul, Caëstre, 59190, France",
+    "adress": "2590 route de Bailleul, Caestre, 59190, France",
     "price": "19-33EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -3034,7 +3034,7 @@
   },
   {
     "name": "Nino",
-    "adress": "28 rue Peyrolières, Toulouse, 31000, France",
+    "adress": "28 rue Peyrolieres, Toulouse, 31000, France",
     "price": "26-33EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -3060,7 +3060,7 @@
     "link": "www.fermeduvert.com"
   },
   {
-    "name": "La Safranière",
+    "name": "La Safraniere",
     "adress": "52 rue du Lavoir, Chabrits, 48000, France",
     "price": "25-50EUR",
     "type": "Cuisine moderne",
@@ -3070,7 +3070,7 @@
   },
   {
     "name": "Le Cerisier",
-    "adress": "1 rue Saint-Joseph, Tournon-sur-Rhône, 07300, France",
+    "adress": "1 rue Saint-Joseph, Tournon-sur-Rhone, 07300, France",
     "price": "32-65EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -3115,7 +3115,7 @@
   },
   {
     "name": "Restaurant Dimofski",
-    "adress": "2 Quartier de la Gare, Wœlfling-lès-Sarreguemines, 57200, France",
+    "adress": "2 Quartier de la Gare, Wœlfling-les-Sarreguemines, 57200, France",
     "price": "30-94EUR",
     "type": "Cuisine actuelle",
     "experience": "Confortable",
@@ -3151,7 +3151,7 @@
   },
   {
     "name": "Un Grain de Saveur",
-    "adress": "8 rue de l'Abbé-Girard, Clermont-Ferrand, 63000, France",
+    "adress": "8 rue de l'Abbe-Girard, Clermont-Ferrand, 63000, France",
     "price": "20-60EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -3159,8 +3159,8 @@
     "link": "www.ungraindesaveur.fr"
   },
   {
-    "name": "La Parenthèse",
-    "adress": "26 place du Châtelet, Orléans, 45000, France",
+    "name": "La Parenthese",
+    "adress": "26 place du Chatelet, Orleans, 45000, France",
     "price": "19-42EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -3222,7 +3222,7 @@
     "link": "www.auchevalblanc.net"
   },
   {
-    "name": "Le Réciproque",
+    "name": "Le Reciproque",
     "adress": "14 rue Ferdinand-Flocon, Paris, 75018, France",
     "price": "25-45EUR",
     "type": "Cuisine traditionnelle",
@@ -3241,7 +3241,7 @@
   },
   {
     "name": "Le Lancelot",
-    "adress": "12 rue des Déportés, Chilleurs-aux-Bois, 45170, France",
+    "adress": "12 rue des Deportes, Chilleurs-aux-Bois, 45170, France",
     "price": "29-80EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -3249,8 +3249,8 @@
     "link": "www.restaurantlelancelot.com"
   },
   {
-    "name": "Auberge du Château",
-    "adress": "67 montée du Château, Bressieux, 38870, France",
+    "name": "Auberge du Chateau",
+    "adress": "67 montee du Chateau, Bressieux, 38870, France",
     "price": "32-76EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -3259,7 +3259,7 @@
   },
   {
     "name": "La Vierge",
-    "adress": "58 rue de la Réunion, Paris, 75020, France",
+    "adress": "58 rue de la Reunion, Paris, 75020, France",
     "price": "20-40EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -3268,7 +3268,7 @@
   },
   {
     "name": "L'Affranchi",
-    "adress": "33 rue des Cornières, Agen, 47000, France",
+    "adress": "33 rue des Cornieres, Agen, 47000, France",
     "price": "16-47EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -3295,7 +3295,7 @@
   },
   {
     "name": "In Extremis",
-    "adress": "7 place de l'Atre, Épinal, 88000, France",
+    "adress": "7 place de l'Atre, Epinal, 88000, France",
     "price": "25-59EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -3322,7 +3322,7 @@
   },
   {
     "name": "La Pie qui Couette",
-    "adress": "1 rue Guizot, Nîmes, 30000, France",
+    "adress": "1 rue Guizot, Nimes, 30000, France",
     "price": "27-70EUR",
     "type": "Cuisine méditerranéenne",
     "experience": "Assez confortable",
@@ -3340,7 +3340,7 @@
   },
   {
     "name": "Auberge de la Roche",
-    "adress": "10 Route Nationale 23, Saint-Jean-de-Linières, 49070, France",
+    "adress": "10 Route Nationale 23, Saint-Jean-de-Linieres, 49070, France",
     "price": "24-62EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -3348,7 +3348,7 @@
     "link": "www.auberge-de-la-roche.com"
   },
   {
-    "name": "La Flèche d'Argent",
+    "name": "La Fleche d'Argent",
     "adress": "5 place Allard, Royat, 63130, France",
     "price": "25-88EUR",
     "type": "Cuisine moderne",
@@ -3357,8 +3357,8 @@
     "link": "www.princesse-flore-hotel.com"
   },
   {
-    "name": "Le Carré de l'Ange",
-    "adress": "Palais des Évêques, Saint-Lizier, 09190, France",
+    "name": "Le Carre de l'Ange",
+    "adress": "Palais des Eveques, Saint-Lizier, 09190, France",
     "price": "23-65EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable. Nos établissements de charme.",
@@ -3393,8 +3393,8 @@
     "link": "www.leterminus-cote-gare.fr"
   },
   {
-    "name": "Paris Méditerranée",
-    "adress": "47 rue Pierre-Semard, Sète, 34200, France",
+    "name": "Paris Mediterranee",
+    "adress": "47 rue Pierre-Semard, Sete, 34200, France",
     "price": "34-50EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -3403,7 +3403,7 @@
   },
   {
     "name": "Fine Gueule",
-    "adress": "2 rue de l'Hôtel de Ville, Nice, 06300, France",
+    "adress": "2 rue de l'Hotel de Ville, Nice, 06300, France",
     "price": "30-50EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -3412,7 +3412,7 @@
   },
   {
     "name": "Mets Mots",
-    "adress": "98 rue Fondaudège, Bordeaux, 33000, France",
+    "adress": "98 rue Fondaudege, Bordeaux, 33000, France",
     "price": "22-58EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -3439,7 +3439,7 @@
   },
   {
     "name": "Auberge du Moulin",
-    "adress": "36 rue des Moulins-du-Tot, Clères, 76690, France",
+    "adress": "36 rue des Moulins-du-Tot, Cleres, 76690, France",
     "price": "33-63EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -3448,7 +3448,7 @@
   },
   {
     "name": "Le St-Georges",
-    "adress": "4 boulevard Maréchal-Foch, Palavas-les-Flots, 34250, France",
+    "adress": "4 boulevard Marechal-Foch, Palavas-les-Flots, 34250, France",
     "price": "33-65EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -3465,7 +3465,7 @@
     "link": "www.saveurs-abbaye.com"
   },
   {
-    "name": "L'Arôme",
+    "name": "L'Arome",
     "adress": "9 rue des 3 Rois, Marseille, 13006, France",
     "price": "30EUR",
     "type": "Cuisine moderne",
@@ -3474,7 +3474,7 @@
     "link": ""
   },
   {
-    "name": "Le Bréard",
+    "name": "Le Breard",
     "adress": "7 rue du Puits, Honfleur, 14600, France",
     "price": "34-65EUR",
     "type": "Cuisine moderne",
@@ -3484,7 +3484,7 @@
   },
   {
     "name": "Coteaux et Fourchettes",
-    "adress": "Route de Violès, Cairanne, 84290, France",
+    "adress": "Route de Violes, Cairanne, 84290, France",
     "price": "28-79EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -3492,7 +3492,7 @@
     "link": "www.coteauxetfourchettes.com"
   },
   {
-    "name": "Auberge des Chenêts",
+    "name": "Auberge des Chenets",
     "adress": "10 route Nationale 6, Valloux, 89200, France",
     "price": "29-66EUR",
     "type": "Cuisine traditionnelle",
@@ -3528,7 +3528,7 @@
     "link": "www.hotel-lecentral-coulon.com"
   },
   {
-    "name": "À la Route d'Argent",
+    "name": "A la Route d'Argent",
     "adress": "1 route de Gabriac, Bozouls, 12340, France",
     "price": "21-46EUR",
     "type": "Cuisine traditionnelle",
@@ -3538,7 +3538,7 @@
   },
   {
     "name": "Restaurant de la Plage",
-    "adress": "1 place de l'Océan, Saint-Palais-sur-Mer, 17420, France",
+    "adress": "1 place de l'Ocean, Saint-Palais-sur-Mer, 17420, France",
     "price": "33EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -3547,7 +3547,7 @@
   },
   {
     "name": "Zen",
-    "adress": "8 rue de l'Échelle, Paris, 75001, France",
+    "adress": "8 rue de l'Echelle, Paris, 75001, France",
     "price": "21-60EUR",
     "type": "Cuisine japonaise",
     "experience": "Assez confortable",
@@ -3556,7 +3556,7 @@
   },
   {
     "name": "Bistrot d'Antoine",
-    "adress": "27 rue de la Préfecture, Nice, 06300, France",
+    "adress": "27 rue de la Prefecture, Nice, 06300, France",
     "price": "28-54EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -3591,7 +3591,7 @@
     "link": "www.legrapiot.com"
   },
   {
-    "name": "Côté Sud",
+    "name": "Cote Sud",
     "adress": "Route d'Orange, Uchaux, 84100, France",
     "price": "26-65EUR",
     "type": "Cuisine moderne",
@@ -3601,7 +3601,7 @@
   },
   {
     "name": "Zest",
-    "adress": "32 cours de la Vilaine, Cesson-Sévigné, 35510, France",
+    "adress": "32 cours de la Vilaine, Cesson-Sevigne, 35510, France",
     "price": "21-54EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -3645,7 +3645,7 @@
     "link": ""
   },
   {
-    "name": "La Cuisine d'Amélie",
+    "name": "La Cuisine d'Amelie",
     "adress": "Route de Roquefraiche, Lauris, 84360, France",
     "price": "30-60EUR",
     "type": "Cuisine moderne",
@@ -3664,7 +3664,7 @@
   },
   {
     "name": "Restaurant du Dauphin",
-    "adress": "3 rue d'Huisne, La Ferté-Bernard, 72400, France",
+    "adress": "3 rue d'Huisne, La Ferte-Bernard, 72400, France",
     "price": "22-85EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -3672,7 +3672,7 @@
     "link": "www.restaurant-du-dauphin.com"
   },
   {
-    "name": "Auberge du Coq-en-Pâte",
+    "name": "Auberge du Coq-en-Pate",
     "adress": "37 Grande-Rue, Argoules, 80120, France",
     "price": "23-48EUR",
     "type": "Cuisine traditionnelle",
@@ -3681,8 +3681,8 @@
     "link": ""
   },
   {
-    "name": "Auberge La Baquère",
-    "adress": "Lieu-dit la Baquère, Préneron, 32190, France",
+    "name": "Auberge La Baquere",
+    "adress": "Lieu-dit la Baquere, Preneron, 32190, France",
     "price": "18-59EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -3708,8 +3708,8 @@
     "link": "www.restaurant20eiffel.fr"
   },
   {
-    "name": "La Clé des Champs",
-    "adress": "place des Frères-Caudron, Favières, 80120, France",
+    "name": "La Cle des Champs",
+    "adress": "place des Freres-Caudron, Favieres, 80120, France",
     "price": "27-53EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -3717,7 +3717,7 @@
     "link": "www.restaurant-lacledeschamps.com"
   },
   {
-    "name": "L'Envers du Décor",
+    "name": "L'Envers du Decor",
     "adress": "23  rue de la Bienfaisance, Les Herbiers, 85500, France",
     "price": "33-55EUR",
     "type": "Cuisine moderne",
@@ -3726,7 +3726,7 @@
     "link": "www.envers-du-decor.fr"
   },
   {
-    "name": "La Table d'Angèle",
+    "name": "La Table d'Angele",
     "adress": "30 Grande-Rue, La Bresse, 88250, France",
     "price": "21-66EUR",
     "type": "Cuisine moderne",
@@ -3744,8 +3744,8 @@
     "link": "www.restaurant-soubise.com"
   },
   {
-    "name": "À la 12",
-    "adress": "6 place de la République, Delme, 57590, France",
+    "name": "A la 12",
+    "adress": "6 place de la Republique, Delme, 57590, France",
     "price": "14-70EUR",
     "type": "Cuisine créative",
     "experience": "Confortable",
@@ -3754,7 +3754,7 @@
   },
   {
     "name": "La Table de Pablo",
-    "adress": "Hameau Les Petits-Cléments, Villars, 84400, France",
+    "adress": "Hameau Les Petits-Clements, Villars, 84400, France",
     "price": "33-50EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -3763,7 +3763,7 @@
   },
   {
     "name": "Air Accueil",
-    "adress": "50 rue Nationale, Brebières, 62117, France",
+    "adress": "50 rue Nationale, Brebieres, 62117, France",
     "price": "33-70EUR",
     "type": "Cuisine moderne",
     "experience": "Très confortable",
@@ -3780,7 +3780,7 @@
     "link": "www.regismarcon.fr"
   },
   {
-    "name": "Impérial Choisy",
+    "name": "Imperial Choisy",
     "adress": "32 avenue de Choisy, Paris, 75013, France",
     "price": "20-50EUR",
     "type": "Cuisine chinoise",
@@ -3789,7 +3789,7 @@
     "link": ""
   },
   {
-    "name": "Atmosphère",
+    "name": "Atmosphere",
     "adress": "123 place Balmat, Chamonix-Mont-Blanc, 74400, France",
     "price": "25-85EUR",
     "type": "Cuisine traditionnelle",
@@ -3816,7 +3816,7 @@
     "link": "www.lagriotte.fr"
   },
   {
-    "name": "Le Comptoir Breizh Café",
+    "name": "Le Comptoir Breizh Cafe",
     "adress": "6 rue de l'Orme, Saint-Malo, 35400, France",
     "price": "19-40EUR",
     "type": "Cuisine bretonne",
@@ -3825,7 +3825,7 @@
     "link": "www.breizhcafe.com"
   },
   {
-    "name": "La Table de Marlène",
+    "name": "La Table de Marlene",
     "adress": "Boulevard de Lattre-de-Tassigny, Vichy, 03200, France",
     "price": "34-80EUR",
     "type": "Cuisine moderne",
@@ -3835,7 +3835,7 @@
   },
   {
     "name": "Insens",
-    "adress": "10 rue de Lodi, Saint-Étienne, 42000, France",
+    "adress": "10 rue de Lodi, Saint-Etienne, 42000, France",
     "price": "20-58EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -3880,7 +3880,7 @@
   },
   {
     "name": "Le Florida",
-    "adress": "2 rue du Lac, Castéra-Verduzan, 32410, France",
+    "adress": "2 rue du Lac, Castera-Verduzan, 32410, France",
     "price": "19-65EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -3906,8 +3906,8 @@
     "link": "www.restaurantlacantinetta.fr"
   },
   {
-    "name": "Café de la Fontaine",
-    "adress": "4 avenue du Général-de-Gaulle, La Turbie, 06320, France",
+    "name": "Cafe de la Fontaine",
+    "adress": "4 avenue du General-de-Gaulle, La Turbie, 06320, France",
     "price": "30-45EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -3915,7 +3915,7 @@
     "link": "www.hostellerie-jerome.com"
   },
   {
-    "name": "La Tête au Loup",
+    "name": "La Tete au Loup",
     "adress": "Le Pin-au-Haras, 61310, France",
     "price": "32-49EUR",
     "type": "Cuisine traditionnelle",
@@ -3924,7 +3924,7 @@
     "link": "www.lateteauloup.fr"
   },
   {
-    "name": "L'Éden",
+    "name": "L'Eden",
     "adress": "7 rue Henri-Fouchard, Houlgate, 14510, France",
     "price": "27-87EUR",
     "type": "Cuisine moderne",
@@ -3951,8 +3951,8 @@
     "link": ""
   },
   {
-    "name": "Les Résistants",
-    "adress": "16 rue du Château-d'Eau, Paris, 75010, France",
+    "name": "Les Resistants",
+    "adress": "16 rue du Chateau-d'Eau, Paris, 75010, France",
     "price": "19-40EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -3978,7 +3978,7 @@
     "link": "www.auberge-loupinatou.fr"
   },
   {
-    "name": "Le Bouche à Oreille",
+    "name": "Le Bouche a Oreille",
     "adress": "19 rue Paul-Doumer, Le Havre, 76600, France",
     "price": "25-44EUR",
     "type": "Cuisine moderne",
@@ -4005,8 +4005,8 @@
     "link": "www.lescocottes.paris"
   },
   {
-    "name": "Au Plaisir Ambré",
-    "adress": "26 Grande-Rue, Briançon, 05100, France",
+    "name": "Au Plaisir Ambre",
+    "adress": "26 Grande-Rue, Briancon, 05100, France",
     "price": "26-46EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -4015,7 +4015,7 @@
   },
   {
     "name": "Le Central",
-    "adress": "20 cours de la République, Roanne, 42300, France",
+    "adress": "20 cours de la Republique, Roanne, 42300, France",
     "price": "24-33EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable. Nos établissements de charme.",
@@ -4033,7 +4033,7 @@
   },
   {
     "name": "Le Pantruche",
-    "adress": "3 rue Victor-Massé, Paris, 75009, France",
+    "adress": "3 rue Victor-Masse, Paris, 75009, France",
     "price": "38EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -4041,7 +4041,7 @@
     "link": ""
   },
   {
-    "name": "Le Kitchen Café",
+    "name": "Le Kitchen Cafe",
     "adress": "34 rue Chevreul, Lyon, 69007, France",
     "price": "24-32EUR",
     "type": "Cuisine moderne",
@@ -4050,7 +4050,7 @@
     "link": "www.lekitchencafe.com"
   },
   {
-    "name": "La Chaumière",
+    "name": "La Chaumiere",
     "adress": "96 avenue Emmanuel-Brousse, Font-Romeu, 66120, France",
     "price": "23-65EUR",
     "type": "Cuisine catalane",
@@ -4060,7 +4060,7 @@
   },
   {
     "name": "Le Muratore",
-    "adress": "8 place du Docteur-Jean-Bernex, Évian-les-Bains, 74500, France",
+    "adress": "8 place du Docteur-Jean-Bernex, Evian-les-Bains, 74500, France",
     "price": "34-71EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -4077,7 +4077,7 @@
     "link": "lecomptoir.labutte.fr"
   },
   {
-    "name": "Le Saint-Honoré",
+    "name": "Le Saint-Honore",
     "adress": "7 place des Petites-Boucheries, Tours, 37000, France",
     "price": "31-63EUR",
     "type": "Cuisine moderne",
@@ -4087,7 +4087,7 @@
   },
   {
     "name": "L'Amandier",
-    "adress": "19 rue Marc-Antoine-Désaugiers, Fréjus, 83600, France",
+    "adress": "19 rue Marc-Antoine-Desaugiers, Frejus, 83600, France",
     "price": "31-52EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -4095,8 +4095,8 @@
     "link": "www.restaurant-lamandier-frejus.com"
   },
   {
-    "name": "Les Arômes",
-    "adress": "230 avenue du 2ème-Cuirassier, Gémenos, 13420, France",
+    "name": "Les Aromes",
+    "adress": "230 avenue du 2eme-Cuirassier, Gemenos, 13420, France",
     "price": "34-75EUR",
     "type": "Cuisine du marché",
     "experience": "Confortable",
@@ -4122,8 +4122,8 @@
     "link": "www.restaurantleptitgo.wixsite.com/leptitgoustan"
   },
   {
-    "name": "La Table d'Hôtes",
-    "adress": "10 avenue du Général-Leclerc, Ouistreham, 14150, France",
+    "name": "La Table d'Hotes",
+    "adress": "10 avenue du General-Leclerc, Ouistreham, 14150, France",
     "price": "33-60EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -4141,7 +4141,7 @@
   },
   {
     "name": "La Dariole",
-    "adress": "25 rue Étienne-Dolet, Orléans, 45000, France",
+    "adress": "25 rue Etienne-Dolet, Orleans, 45000, France",
     "price": "28EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -4159,7 +4159,7 @@
   },
   {
     "name": "Le Mail",
-    "adress": "16 allée du Mail, La Rochelle, 17000, France",
+    "adress": "16 allee du Mail, La Rochelle, 17000, France",
     "price": "26-57EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -4177,7 +4177,7 @@
   },
   {
     "name": "Au Colombier",
-    "adress": "126 allée Colombier, Anse, 69480, France",
+    "adress": "126 allee Colombier, Anse, 69480, France",
     "price": "26-69EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -4195,7 +4195,7 @@
   },
   {
     "name": "L'Arum",
-    "adress": "21 avenue Joseph-Clotis, Hyères, 83400, France",
+    "adress": "21 avenue Joseph-Clotis, Hyeres, 83400, France",
     "price": "31-60EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -4204,7 +4204,7 @@
   },
   {
     "name": "Manoir de la Pommeraie",
-    "adress": "L'Auvère, Vire, 14500, France",
+    "adress": "L'Auvere, Vire, 14500, France",
     "price": "33-58EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -4230,8 +4230,8 @@
     "link": ""
   },
   {
-    "name": "La Méditerranée",
-    "adress": "2 place de l'Odéon, Paris, 75006, France",
+    "name": "La Mediterranee",
+    "adress": "2 place de l'Odeon, Paris, 75006, France",
     "price": "37-80EUR",
     "type": "Poissons et fruits de mer",
     "experience": "Confortable",
@@ -4240,7 +4240,7 @@
   },
   {
     "name": "L'Instinct Gourmand",
-    "adress": "14 rue St-Léonard, Nantes, 44000, France",
+    "adress": "14 rue St-Leonard, Nantes, 44000, France",
     "price": "17-33EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -4248,8 +4248,8 @@
     "link": "www.linstinctgourmand.com"
   },
   {
-    "name": "Les Épices Curiens",
-    "adress": "3b place de la Gare, Écouviez, 55600, France",
+    "name": "Les Epices Curiens",
+    "adress": "3b place de la Gare, Ecouviez, 55600, France",
     "price": "30-72EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -4258,7 +4258,7 @@
   },
   {
     "name": "Le Margote",
-    "adress": "50 quai Michel-Féré, Le Havre, 76600, France",
+    "adress": "50 quai Michel-Fere, Le Havre, 76600, France",
     "price": "32-67EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -4303,7 +4303,7 @@
   },
   {
     "name": "L'Amphitryon",
-    "adress": "56 cours du Maréchal Joffre, Dax, 40100, France",
+    "adress": "56 cours du Marechal Joffre, Dax, 40100, France",
     "price": "30-55EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -4329,8 +4329,8 @@
     "link": ""
   },
   {
-    "name": "L'Araignée Gourmande",
-    "adress": "8 rue de la Paix, Laragne-Montéglin, 05300, France",
+    "name": "L'Araignee Gourmande",
+    "adress": "8 rue de la Paix, Laragne-Monteglin, 05300, France",
     "price": "33-55EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -4339,7 +4339,7 @@
   },
   {
     "name": "Le Grand Bain",
-    "adress": "14 rue Dénoyez, Paris, 75020, France",
+    "adress": "14 rue Denoyez, Paris, 75020, France",
     "price": "25-45EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -4347,7 +4347,7 @@
     "link": "www.legrandbainparis.com"
   },
   {
-    "name": "Italie là-bas",
+    "name": "Italie la-bas",
     "adress": "23 rue de la Bancasse, Avignon, 84000, France",
     "price": "34-120EUR",
     "type": "Cuisine italienne",
@@ -4356,8 +4356,8 @@
     "link": ""
   },
   {
-    "name": "Le Pré St-Jean",
-    "adress": "18 avenue Maréchal-Leclerc, Pézenas, 34120, France",
+    "name": "Le Pre St-Jean",
+    "adress": "18 avenue Marechal-Leclerc, Pezenas, 34120, France",
     "price": "34-80EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -4366,7 +4366,7 @@
   },
   {
     "name": "Cook'in",
-    "adress": "18 rue Porte-Lucas, Épernay, 51200, France",
+    "adress": "18 rue Porte-Lucas, Epernay, 51200, France",
     "price": "22-45EUR",
     "type": "Influences asiatiques",
     "experience": "Assez confortable",
@@ -4375,7 +4375,7 @@
   },
   {
     "name": "La Ferme du Poulet",
-    "adress": "180 rue Georges Mangin, Villefranche-sur-Saône, 69400, France",
+    "adress": "180 rue Georges Mangin, Villefranche-sur-Saone, 69400, France",
     "price": "20-82EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -4411,7 +4411,7 @@
   },
   {
     "name": "L'Instant du Sud",
-    "adress": "39 Grand-Rue, Générac, 30510, France",
+    "adress": "39 Grand-Rue, Generac, 30510, France",
     "price": "33-37EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -4437,8 +4437,8 @@
     "link": "www.le-dauphin-normandie.fr"
   },
   {
-    "name": "Hostellerie du Prieuré",
-    "adress": "163 rue du Général-de-Gaulle, Saint-Quirin, 57560, France",
+    "name": "Hostellerie du Prieure",
+    "adress": "163 rue du General-de-Gaulle, Saint-Quirin, 57560, France",
     "price": "15-85EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -4456,7 +4456,7 @@
   },
   {
     "name": "Le Casse Noix",
-    "adress": "56 rue de la Fédération, Paris, 75015, France",
+    "adress": "56 rue de la Federation, Paris, 75015, France",
     "price": "35EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -4510,7 +4510,7 @@
   },
   {
     "name": "Les Capucins",
-    "adress": "20 faubourg de Montbéliard, Belfort, 90000, France",
+    "adress": "20 faubourg de Montbeliard, Belfort, 90000, France",
     "price": "23-65EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -4518,8 +4518,8 @@
     "link": "www.hotellescapucins.com"
   },
   {
-    "name": "Le Bois des Mûres",
-    "adress": "815 avenue Léopold-Fabre, Lans-en-Vercors, 38250, France",
+    "name": "Le Bois des Mures",
+    "adress": "815 avenue Leopold-Fabre, Lans-en-Vercors, 38250, France",
     "price": "18-54EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -4546,7 +4546,7 @@
   },
   {
     "name": "La Gazette",
-    "adress": "7 rue St-Sauveur, Évreux, 27000, France",
+    "adress": "7 rue St-Sauveur, Evreux, 27000, France",
     "price": "26-54EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -4572,7 +4572,7 @@
     "link": "maisoncastet.eatbu.com"
   },
   {
-    "name": "La Table d'Aimé",
+    "name": "La Table d'Aime",
     "adress": "4 Rue Francisco Ferrer, Rivesaltes, 66600, France",
     "price": "29-34EUR",
     "type": "Cuisine moderne",
@@ -4581,8 +4581,8 @@
     "link": "www.latabledaime.com"
   },
   {
-    "name": "L'Ô à la Bouche",
-    "adress": "56 Allées Fénelon, Cahors, 46000, France",
+    "name": "L'O a la Bouche",
+    "adress": "56 Allees Fenelon, Cahors, 46000, France",
     "price": "27-45EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -4590,7 +4590,7 @@
     "link": "www.loalabouche-restaurant.com"
   },
   {
-    "name": "Le Clos Perché",
+    "name": "Le Clos Perche",
     "adress": "Le bourg, Montarcher, 42380, France",
     "price": "34-55EUR",
     "type": "Cuisine créative",
@@ -4609,7 +4609,7 @@
   },
   {
     "name": "L'Arche de Meslay",
-    "adress": "14 rue des Ailes, Parçay-Meslay, 37210, France",
+    "adress": "14 rue des Ailes, Parcay-Meslay, 37210, France",
     "price": "23-75EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -4627,7 +4627,7 @@
   },
   {
     "name": "Vidal",
-    "adress": "Place du Marché, Saint-Julien-Chapteuil, 43260, France",
+    "adress": "Place du Marche, Saint-Julien-Chapteuil, 43260, France",
     "price": "31-80EUR",
     "type": "Cuisine du terroir",
     "experience": "Très confortable",
@@ -4636,7 +4636,7 @@
   },
   {
     "name": "La Maison de Celou",
-    "adress": "impasse de l'Alouette - Portail du Thor, Châteauneuf-de-Gadagne, 84470, France",
+    "adress": "impasse de l'Alouette - Portail du Thor, Chateauneuf-de-Gadagne, 84470, France",
     "price": "21-70EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable. Nos établissements de charme.",
@@ -4654,7 +4654,7 @@
   },
   {
     "name": "La Balade des Saveurs",
-    "adress": "3 quai Jean-Jaurès, L'Isle-sur-la-Sorgue, 84800, France",
+    "adress": "3 quai Jean-Jaures, L'Isle-sur-la-Sorgue, 84800, France",
     "price": "20-54EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
@@ -4672,7 +4672,7 @@
   },
   {
     "name": "Ar Maen Hir",
-    "adress": "15 bis rue du Prieuré, Locronan, 29180, France",
+    "adress": "15 bis rue du Prieure, Locronan, 29180, France",
     "price": "19-45EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -4689,7 +4689,7 @@
     "link": "www.lestvincent.com"
   },
   {
-    "name": "Carré 2 Vigne",
+    "name": "Carre 2 Vigne",
     "adress": "14 rue de Pomet, Toulon, 83000, France",
     "price": "30-49EUR",
     "type": "Cuisine moderne",
@@ -4699,7 +4699,7 @@
   },
   {
     "name": "Disini",
-    "adress": "1 rue des Carrières, Castries, 34160, France",
+    "adress": "1 rue des Carrieres, Castries, 34160, France",
     "price": "24-69EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable. Nos établissements de charme.",
@@ -4717,7 +4717,7 @@
   },
   {
     "name": "Restaurant des Voisins",
-    "adress": "12 rue des Voisins, Salies-de-Béarn, 64270, France",
+    "adress": "12 rue des Voisins, Salies-de-Bearn, 64270, France",
     "price": "33-47EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -4725,8 +4725,8 @@
     "link": "www.restaurant-des-voisins.fr"
   },
   {
-    "name": "La Ferme de la Haute Crémonville",
-    "adress": "Route de Crémonville, Saint-Étienne-du-Vauvray, 27430, France",
+    "name": "La Ferme de la Haute Cremonville",
+    "adress": "Route de Cremonville, Saint-Etienne-du-Vauvray, 27430, France",
     "price": "31-50EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
@@ -4734,7 +4734,7 @@
     "link": "www.restaurant-ferme-haute-cremonville.com"
   },
   {
-    "name": "Hôtellerie St-Jean",
+    "name": "Hotellerie St-Jean",
     "adress": "25 route de Parthenay, Saint-Jean-de-Thouars, 79100, France",
     "price": "20-47EUR",
     "type": "Cuisine classique",
@@ -4752,8 +4752,8 @@
     "link": ""
   },
   {
-    "name": "La Côte Rôtie",
-    "adress": "2 boulevard Maréchal-Lyautey, La Rochelle, 17000, France",
+    "name": "La Cote Rotie",
+    "adress": "2 boulevard Marechal-Lyautey, La Rochelle, 17000, France",
     "price": "32-57EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
@@ -4789,7 +4789,7 @@
   },
   {
     "name": "La Table de Haute-Serre",
-    "adress": "Château de Haute-Serre, Cieurac, 46230, France",
+    "adress": "Chateau de Haute-Serre, Cieurac, 46230, France",
     "price": "32-52EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable. Nos établissements de charme.",
@@ -4798,7 +4798,7 @@
   },
   {
     "name": "Le Bistrot des Moines",
-    "adress": "Route Départementale 33, La Bussière-sur-Ouche, 21360, France",
+    "adress": "Route Departementale 33, La Bussiere-sur-Ouche, 21360, France",
     "price": "33-39EUR",
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable. Nos établissements de charme.",
@@ -4816,7 +4816,7 @@
   },
   {
     "name": "Auberge du Pont de la Zorn",
-    "adress": "2 rue de la République, Weyersheim, 67720, France",
+    "adress": "2 rue de la Republique, Weyersheim, 67720, France",
     "price": "28-51EUR",
     "type": "Cuisine alsacienne",
     "experience": "Assez confortable",
@@ -4824,7 +4824,7 @@
     "link": "www.pontdelazorn.fr"
   },
   {
-    "name": "La Belle Étoile",
+    "name": "La Belle Etoile",
     "adress": "Le Bourg, La Roque-Gageac, 24250, France",
     "price": "33-55EUR",
     "type": "Cuisine traditionnelle",
@@ -4860,8 +4860,8 @@
     "link": "lapommedor-sancerre.fr"
   },
   {
-    "name": "Au Relais des Ménétriers",
-    "adress": "10 avenue du Général-de-Gaulle, Ribeauvillé, 68150, France",
+    "name": "Au Relais des Menetriers",
+    "adress": "10 avenue du General-de-Gaulle, Ribeauville, 68150, France",
     "price": "17-62EUR",
     "type": "Cuisine moderne",
     "experience": "Confortable",
@@ -4878,7 +4878,7 @@
     "link": ""
   },
   {
-    "name": "Auberge le Nézil",
+    "name": "Auberge le Nezil",
     "adress": "route de St-Nazaire, Saint-Lyphard, 44410, France",
     "price": "34-42EUR",
     "type": "Cuisine moderne",
@@ -4896,8 +4896,8 @@
     "link": "www.lerelaisdessalines.com"
   },
   {
-    "name": "La Plage de la Ribaudière",
-    "adress": "52  avenue de la Cèpe, La Tremblade, 17390, France",
+    "name": "La Plage de la Ribaudiere",
+    "adress": "52  avenue de la Cepe, La Tremblade, 17390, France",
     "price": "27-69EUR",
     "type": "Cuisine du marché",
     "experience": "Assez confortable",
@@ -4914,7 +4914,7 @@
     "link": ""
   },
   {
-    "name": "Le Vallon de Chérisy",
+    "name": "Le Vallon de Cherisy",
     "adress": "12 route de Paris, Cherisy, 28500, France",
     "price": "31-70EUR",
     "type": "Cuisine traditionnelle",
@@ -4923,7 +4923,7 @@
     "link": "www.le-vallon-de-cherisy.fr"
   },
   {
-    "name": "Les Mets d'Adélaïde",
+    "name": "Les Mets d'Adelaide",
     "adress": "28 avenue Georges-Alquier, Castres, 81100, France",
     "price": "30-48EUR",
     "type": "Cuisine moderne",
@@ -4932,7 +4932,7 @@
     "link": ""
   },
   {
-    "name": "L'Écureuil",
+    "name": "L'Ecureuil",
     "adress": "18 rue St-Adjutor, Clermont-Ferrand, 63000, France",
     "price": "15-52EUR",
     "type": "Cuisine moderne",
@@ -4960,7 +4960,7 @@
   },
   {
     "name": "Les Canailles Pigalle",
-    "adress": "25 rue La Bruyère, Paris, 75009, France",
+    "adress": "25 rue La Bruyere, Paris, 75009, France",
     "price": "37-55EUR",
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
