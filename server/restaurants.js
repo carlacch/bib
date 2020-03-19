@@ -5,8 +5,8 @@ const URL = 'https://guide.michelin.com/fr/fr/restaurants/bib-gourmand/page/';
 
 async function michelinRestaurants(){
   let i=1;
-  var restaurants;
-  var all_rest=[];
+  let restaurants;
+  let all_rest=[];
   
   do {
     console.log(i);
@@ -23,7 +23,7 @@ async function michelinRestaurants(){
 
 async function maitreRestaurants(){
   let page = 1;
-  var all_restaurants=[];
+  let all_restaurants=[];
   let restaurants 
   do {
     console.log(page);
@@ -34,11 +34,10 @@ async function maitreRestaurants(){
   while(restaurants.length!=0);  
   
   fs.writeFileSync('restaurant_maitre.json', JSON.stringify(all_restaurants,null,2));
-  //console.log(all_restaurants);
-  console.log(all_restaurants.length);
+  console.log(`Number of restaurants : ${all_restaurants.length}`);
   return all_restaurants;  
 }
 
-//const mich_rest = michelinRestaurants();
+const mich_rest = michelinRestaurants();
 const maitre_rest = maitreRestaurants();
-//michelin.test();
+//maitre.test1();
