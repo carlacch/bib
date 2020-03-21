@@ -1,24 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
+import star from './star.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>BibRestaurateur</h1>
+        <h3>Vous trouverez ici les restaurants Maître restaurateur avec la distinction BibGourmand <img src={star} className="App-logo" alt="star" /></h3>
       </header>
+      <p>Voici le site ...</p>
     </div>
   );
 }
