@@ -37,6 +37,26 @@
   color: #61dafb;
 }
 
+.column {
+  flex: 50%;
+}
+
+.row {
+  display: flex;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: #302424;
+  background-color: #f1e4e4;
+}
+
+footer p {
+  margin: 0.5rem;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
