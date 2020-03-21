@@ -6,7 +6,8 @@ const formatted = (str) => {
     return str.toUpperCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
 
-const newInfo = (r_mich, r_maitre) =>{
+const newInfo = (r_mich, r_maitre, _id) =>{
+    const id = _id;
     const name = r_maitre.name;
     const adress = r_mich.adress;
     let tel = r_mich.tel;
@@ -21,11 +22,12 @@ const newInfo = (r_mich, r_maitre) =>{
     const type = r_mich.type;
     const experience = r_mich.experience;
     const speciality = r_maitre.speciality;
-    return {name, adress, tel, price, type, experience, speciality, link};
+    return {id, name, adress, tel, price, type, experience, speciality, link};
 }
 
 const getBibMaitre = () => {
     let bib_restaurant = [];
+    let _id=0;
     michelin.forEach(restau => {
         const name = formatted(restau.name);
         console.log(name);
@@ -37,13 +39,14 @@ const getBibMaitre = () => {
             if ((name.includes(formatted(restau_maitre.name))  || formatted(restau_maitre.name).includes(name)) && ZIPcode == restau_maitre.ZIPcode ) {
                 console.log(restau);
                 console.log(restau_maitre);
-                bib_restaurant.push(newInfo(restau, restau_maitre));
+                bib_restaurant.push(newInfo(restau, restau_maitre, _id));
+                _id++;
                 break;
             }
         }
     });
     console.log('done');
-    fs.writeFileSync('restaurant_bib.json', JSON.stringify(bib_restaurant,null,2));
+    fs.writeFileSync('./restaurant_bib.json', JSON.stringify(bib_restaurant,null,2));
     return bib_restaurant;
 }
 
