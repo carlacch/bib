@@ -1,4 +1,5 @@
 # BIB
+![BibRestaurateur](./img/BibRestaurateur.png)
 
 > Maître Restaurateur x Bib Gourmand
 
