@@ -1,5 +1,7 @@
 .App {
+  flex-direction: column;
   text-align: center;
+  min-height: 100vh;
 }
 
 .App-logo {
@@ -16,7 +18,6 @@
 
 .App-header {
   background-color: #f1e4e4;
-  min-height: 2vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -26,35 +27,51 @@
 }
 
 .App-header h1{
-  margin-bottom: 0.1em;
+  margin-top: 0.2rem;
+  margin-bottom: 0.1rem;
 }
 
 .App-header h3 {
   color: #5a45455e;
-  margin-top: 0em;
+  margin-top: 0rem;
+  margin-bottom: 0.4rem ;
 }
 .App-link {
   color: #61dafb;
 }
 
 .column {
-  flex: 50%;
+  overflow: auto;
+  height: auto;
 }
 
-.row {
+.list {
+  flex: 2.2;
+}
+
+.map{
+  flex: 3;
+}
+
+.App-main {
+  flex: 1;
   display: flex;
+  overflow: hidden;
+  height: calc(100vh - 21.3vmin);
+  position: relative;
+  width: 100%;
 }
 
 footer {
-  position: fixed;
-  bottom: 0;
+  display: flex;
   width: 100%;
   color: #302424;
   background-color: #f1e4e4;
+  justify-content: center;
 }
 
 footer p {
-  margin: 0.5rem;
+  padding: 0.4rem;
 }
 
 @keyframes App-logo-spin {

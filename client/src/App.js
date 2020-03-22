@@ -10,16 +10,14 @@ function App() {
         <h1>BibRestaurateur</h1>
         <h3>Vous trouverez ici les restaurants Maître restaurateur avec la distinction BibGourmand <img src={star} className="App-logo" alt="star" /></h3>
       </header>
-      <main className="App-main">
-        <div className="row">
-          <div className="column">
+      <div className="App-main">
+          <div className="column list">
             <Restaurants/>
           </div>
-          <div className="column">
+          <div className="column map">
 
           </div>
-        </div>
-      </main>
+      </div>
       <footer>
         <p> <b>Carla CAUCHE - Mars 2020</b> </p>
       </footer>
