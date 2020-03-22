@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import './Restaurants.css';
 import BibRest from '../restaurant_bib.json';
 
+// Return a list with all the restaurants stored in restaurant_bib.json file
+// each Restaurant is given a key
 class Restaurants extends Component {
   render(){
     return(
@@ -13,7 +15,7 @@ class Restaurants extends Component {
   }
 };
 
-
+// Display one restaurant inside the list_restaurant
 function Restaurant({element}){
   let value = "//" + element.link;
   let linkphone = "tel:"+element.tel;

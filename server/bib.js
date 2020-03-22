@@ -5,10 +5,22 @@ const fs = require('fs');
 const dotenv = require('dotenv');
 dotenv.config();
 
+
+/**
+ * Formatte a string without any accent and in all caps
+ * @param  {String} str
+ * @return {String} formattedString
+ */
 const formatted = (str) => {
     return str.toUpperCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
 
+
+/**
+ * Decode an adress to latitude and longitude
+ * @param  {String} adress
+ * @return {lat, lng} geolocalisation
+ */
 const geodecode = async (adress) => {
     const url = `https://api.opencagedata.com/geocode/v1/json?q=${adress}&key=${process.env.GEODECODE_API_KEY}&pretty=1`;
     const result = await axios(url);
@@ -20,6 +32,13 @@ const geodecode = async (adress) => {
     return null;    
 }
 
+/**
+ * Give a new datails restaurant
+ * @param  {Object} restaurant michelin
+ * @param  {Object} restaurant maitre
+ * @param  {int}    id
+ * @return {Object} restaurant
+ */
 const newInfo = async (r_mich, r_maitre, _id) =>{
     const id = _id;
     const name = r_maitre.name;
@@ -40,6 +59,10 @@ const newInfo = async (r_mich, r_maitre, _id) =>{
     return {id, name, adress, tel, price, type, experience, speciality, link, geolocalisation};
 }
 
+/**
+ * Get a list of all Maître restaurants with Bib Gourmand distinction 
+ * @return {Array} restaurants
+ */
 const getBibMaitre = async () => {
     let bib_restaurant = [];
     let _id=0;

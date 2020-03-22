@@ -4,9 +4,10 @@ import BibRest from '../restaurant_bib.json';
 const dotenv = require('dotenv');
 dotenv.config();
 
+// return a GoogleMap with Marker of each restaurants
+// with default view on the center of France
 class Map extends Component {
   render(){
-
     const TheMap = withScriptjs(withGoogleMap(props => (
         <GoogleMap defaultCenter = { { lat: 47.0833, lng: 2.3488 } }
         defaultZoom = { 6 }>
@@ -15,8 +16,11 @@ class Map extends Component {
             })}
         </GoogleMap>
     )))
+
+    // get the API_KEY from .env 
     const API_Map = process.env.MAP_API_KEY;
     const MapURL = "https://maps.googleapis.com/maps/api/js?key="+API_Map;
+
     return(
       <div>
         <TheMap googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyAigMIMTY-1q-L6SvPl65Ab7zEpf9XIomo"

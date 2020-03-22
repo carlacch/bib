@@ -3,6 +3,10 @@ const maitre = require('./maitre')
 const fs = require('fs');
 const URL = 'https://guide.michelin.com/fr/fr/restaurants/bib-gourmand/page/';
 
+/**
+ * Get a list of all Michelin restaurants with Bib Gourmand distinction 
+ * @return {Array} restaurants
+ */
 async function michelinRestaurants(){
   let i=1;
   let restaurants;
@@ -21,6 +25,10 @@ async function michelinRestaurants(){
   return all_rest;
 }
 
+/**
+ * Get a list of all Maître restaurants
+ * @return {Array} restaurants
+ */
 async function maitreRestaurants(){
   let page = 1;
   let all_restaurants=[];
