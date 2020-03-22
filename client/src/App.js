@@ -2,6 +2,7 @@ import React from 'react';
 import star from './star.svg';
 import './App.css';
 import Restaurants from './components/Restaurants';
+import Map from './components/Map';
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
             <Restaurants/>
           </div>
           <div className="column map">
-
+            <Map/>
           </div>
       </div>
       <footer>

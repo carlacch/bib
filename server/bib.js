@@ -1,12 +1,26 @@
 const maitre = require('./restaurant_maitre.json');
 const michelin = require('./restaurant_michelin.json');
+const axios = require('axios');
 const fs = require('fs');
+const dotenv = require('dotenv');
+dotenv.config();
 
 const formatted = (str) => {
     return str.toUpperCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
 
-const newInfo = (r_mich, r_maitre, _id) =>{
+const geodecode = async (adress) => {
+    const url = `https://api.opencagedata.com/geocode/v1/json?q=${adress}&key=${process.env.GEODECODE_API_KEY}&pretty=1`;
+    const result = await axios(url);
+    const {data , status} = result; 
+    if (status >= 200 && status < 300) {
+        return data.results[0].geometry;
+      }
+    console.error(status);
+    return null;    
+}
+
+const newInfo = async (r_mich, r_maitre, _id) =>{
     const id = _id;
     const name = r_maitre.name;
     const adress = r_mich.adress;
@@ -22,13 +36,15 @@ const newInfo = (r_mich, r_maitre, _id) =>{
     const type = r_mich.type;
     const experience = r_mich.experience;
     const speciality = r_maitre.speciality;
-    return {id, name, adress, tel, price, type, experience, speciality, link};
+    const geolocalisation = await geodecode(adress);
+    return {id, name, adress, tel, price, type, experience, speciality, link, geolocalisation};
 }
 
-const getBibMaitre = () => {
+const getBibMaitre = async () => {
     let bib_restaurant = [];
     let _id=0;
-    michelin.forEach(restau => {
+    for (let j=0 ; j < michelin.length ; j++){
+        let restau = michelin[j];
         const name = formatted(restau.name);
         console.log(name);
         let [street,city,ZIPcode,country] = restau.adress.split(', ');
@@ -39,12 +55,13 @@ const getBibMaitre = () => {
             if ((name.includes(formatted(restau_maitre.name))  || formatted(restau_maitre.name).includes(name)) && ZIPcode == restau_maitre.ZIPcode ) {
                 console.log(restau);
                 console.log(restau_maitre);
-                bib_restaurant.push(newInfo(restau, restau_maitre, _id));
+                let newres = await newInfo(restau, restau_maitre, _id);
+                bib_restaurant.push(newres);
                 _id++;
                 break;
             }
         }
-    });
+    }
     console.log('done');
     fs.writeFileSync('./restaurant_bib.json', JSON.stringify(bib_restaurant,null,2));
     return bib_restaurant;
@@ -52,4 +69,6 @@ const getBibMaitre = () => {
 
 //console.log(michelin.length);
 const bib_rest = getBibMaitre();
-console.log(bib_rest.length);
+//console.log(bib_rest.length);
+
+//geodecode("67 chemin de la Messe, Perros-Guirec, 22700, France");

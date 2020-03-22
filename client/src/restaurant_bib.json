@@ -8,7 +8,11 @@
     "type": "Cuisine moderne",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.lesjardinsduleman.com"
+    "link": "www.lesjardinsduleman.com",
+    "geolocalisation": {
+      "lat": 46.3697548,
+      "lng": 6.3272636
+    }
   },
   {
     "id": 1,
@@ -19,7 +23,11 @@
     "type": "Cuisine moderne",
     "experience": "Confortable. Nos établissements de charme.",
     "speciality": [],
-    "link": "www.lemanoirdusphinx.bzh"
+    "link": "www.lemanoirdusphinx.bzh",
+    "geolocalisation": {
+      "lat": 48.8191385,
+      "lng": -3.44134
+    }
   },
   {
     "id": 2,
@@ -30,7 +38,11 @@
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.hoteljulien.com"
+    "link": "www.hoteljulien.com",
+    "geolocalisation": {
+      "lat": 48.4385,
+      "lng": 7.224
+    }
   },
   {
     "id": 3,
@@ -41,7 +53,11 @@
     "type": "Cuisine moderne",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.le-chalet.fr"
+    "link": "www.le-chalet.fr",
+    "geolocalisation": {
+      "lat": 42.65,
+      "lng": 1.8333
+    }
   },
   {
     "id": 4,
@@ -52,7 +68,11 @@
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
     "speciality": [],
-    "link": "www.33cite.com"
+    "link": "www.33cite.com",
+    "geolocalisation": {
+      "lat": 45.7779917,
+      "lng": 4.8443311
+    }
   },
   {
     "id": 5,
@@ -63,7 +83,11 @@
     "type": "Cuisine moderne",
     "experience": "Très confortable",
     "speciality": [],
-    "link": "www.hotel-riviere-vendee.com"
+    "link": "www.hotel-riviere-vendee.com",
+    "geolocalisation": {
+      "lat": 46.4058816,
+      "lng": -0.8931123
+    }
   },
   {
     "id": 6,
@@ -74,7 +98,11 @@
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
     "speciality": [],
-    "link": "www.restaurantlescanailles.fr"
+    "link": "www.restaurantlescanailles.fr",
+    "geolocalisation": {
+      "lat": 48.8666042,
+      "lng": 2.3853196
+    }
   },
   {
     "id": 7,
@@ -85,7 +113,11 @@
     "type": "Cuisine classique",
     "experience": "Confortable. Nos établissements de charme.",
     "speciality": [],
-    "link": "www.lacloseriedesroses.com"
+    "link": "www.lacloseriedesroses.com",
+    "geolocalisation": {
+      "lat": 47.4677,
+      "lng": -1.0278
+    }
   },
   {
     "id": 8,
@@ -96,7 +128,11 @@
     "type": "Cuisine moderne",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.hotel-sarthe.fr"
+    "link": "www.hotel-sarthe.fr",
+    "geolocalisation": {
+      "lat": 48.1048,
+      "lng": 0.5847
+    }
   },
   {
     "id": 9,
@@ -109,7 +145,11 @@
     "speciality": [
       "Truffe"
     ],
-    "link": "www.auchapeaurouge.fr"
+    "link": "www.auchapeaurouge.fr",
+    "geolocalisation": {
+      "lat": 47.1672917,
+      "lng": 0.2403502
+    }
   },
   {
     "id": 10,
@@ -120,7 +160,11 @@
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
     "speciality": [],
-    "link": "www.maisongambert.com"
+    "link": "www.maisongambert.com",
+    "geolocalisation": {
+      "lat": 45.0134,
+      "lng": 4.8449
+    }
   },
   {
     "id": 11,
@@ -182,7 +226,11 @@
       "moelleux chocolat",
       "vins bio, biodynamic ou 100% nature"
     ],
-    "link": "www.restaurant-lembellie.com"
+    "link": "www.restaurant-lembellie.com",
+    "geolocalisation": {
+      "lat": 46.3887863,
+      "lng": 4.6206732
+    }
   },
   {
     "id": 12,
@@ -193,7 +241,11 @@
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
     "speciality": [],
-    "link": "www.comptoir-des-voyageurs.fr"
+    "link": "www.comptoir-des-voyageurs.fr",
+    "geolocalisation": {
+      "lat": 48.0983695,
+      "lng": -4.2082939
+    }
   },
   {
     "id": 13,
@@ -204,7 +256,11 @@
     "type": "Cuisine moderne",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.voyagesdessens.com"
+    "link": "www.voyagesdessens.com",
+    "geolocalisation": {
+      "lat": 46.3196,
+      "lng": 5.2844
+    }
   },
   {
     "id": 14,
@@ -215,7 +271,11 @@
     "type": "Cuisine moderne",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.restaurant-fleurdesel.fr"
+    "link": "www.restaurant-fleurdesel.fr",
+    "geolocalisation": {
+      "lat": 45.588,
+      "lng": 6.4551
+    }
   },
   {
     "id": 15,
@@ -226,7 +286,11 @@
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
     "speciality": [],
-    "link": "www.ttotta.fr"
+    "link": "www.ttotta.fr",
+    "geolocalisation": {
+      "lat": 43.3556,
+      "lng": -1.5501
+    }
   },
   {
     "id": 16,
@@ -237,7 +301,11 @@
     "type": "Cuisine moderne",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.hoteldelaforet-senonches.com"
+    "link": "www.hoteldelaforet-senonches.com",
+    "geolocalisation": {
+      "lat": 48.5605393,
+      "lng": 1.0331657
+    }
   },
   {
     "id": 17,
@@ -248,7 +316,11 @@
     "type": "Cuisine moderne",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.hoteldefrance-montmarault.com"
+    "link": "www.hoteldefrance-montmarault.com",
+    "geolocalisation": {
+      "lat": 46.3190073,
+      "lng": 2.9557643
+    }
   },
   {
     "id": 18,
@@ -259,7 +331,11 @@
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
     "speciality": [],
-    "link": "www.latabledeleo.fr"
+    "link": "www.latabledeleo.fr",
+    "geolocalisation": {
+      "lat": 44.7742854,
+      "lng": 0.8161649
+    }
   },
   {
     "id": 19,
@@ -270,7 +346,11 @@
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
     "speciality": [],
-    "link": "www.restaurantchezmichel.fr"
+    "link": "www.restaurantchezmichel.fr",
+    "geolocalisation": {
+      "lat": 48.8795224,
+      "lng": 2.3522417
+    }
   },
   {
     "id": 20,
@@ -281,7 +361,11 @@
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
     "speciality": [],
-    "link": "www.le-patio-by-lou-caleou.com"
+    "link": "www.le-patio-by-lou-caleou.com",
+    "geolocalisation": {
+      "lat": 43.7821035,
+      "lng": 4.0873755
+    }
   },
   {
     "id": 21,
@@ -292,7 +376,11 @@
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
     "speciality": [],
-    "link": "www.raisindor.fr"
+    "link": "www.raisindor.fr",
+    "geolocalisation": {
+      "lat": 48.0748103,
+      "lng": 7.2337994
+    }
   },
   {
     "id": 22,
@@ -303,7 +391,11 @@
     "type": "Cuisine traditionnelle",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.cheval-blanc-feldbach.fr"
+    "link": "www.cheval-blanc-feldbach.fr",
+    "geolocalisation": {
+      "lat": 47.535615,
+      "lng": 7.264871
+    }
   },
   {
     "id": 23,
@@ -314,7 +406,11 @@
     "type": "Cuisine moderne",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.aubergedesdeuxmagots.fr"
+    "link": "www.aubergedesdeuxmagots.fr",
+    "geolocalisation": {
+      "lat": 47.5183732,
+      "lng": -2.3027597
+    }
   },
   {
     "id": 24,
@@ -325,7 +421,11 @@
     "type": "Cuisine moderne",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.restaurantlepicurien.com"
+    "link": "www.restaurantlepicurien.com",
+    "geolocalisation": {
+      "lat": 43.9246092,
+      "lng": 2.1490539
+    }
   },
   {
     "id": 25,
@@ -362,7 +462,11 @@
       "Tête de veau",
       "Truffe"
     ],
-    "link": "www.auberge-pyrenees-cevennes.fr"
+    "link": "www.auberge-pyrenees-cevennes.fr",
+    "geolocalisation": {
+      "lat": 48.86785,
+      "lng": 2.368775
+    }
   },
   {
     "id": 26,
@@ -373,7 +477,11 @@
     "type": "Cuisine moderne",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.restaurant-le-rabelais.com"
+    "link": "www.restaurant-le-rabelais.com",
+    "geolocalisation": {
+      "lat": 43.5503794,
+      "lng": 5.0318745
+    }
   },
   {
     "id": 27,
@@ -384,7 +492,11 @@
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
     "speciality": [],
-    "link": "www.lereciproque.com"
+    "link": "www.lereciproque.com",
+    "geolocalisation": {
+      "lat": 48.8916389,
+      "lng": 2.3461087
+    }
   },
   {
     "id": 28,
@@ -395,7 +507,11 @@
     "type": "Cuisine moderne",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.restaurantlelancelot.com"
+    "link": "www.restaurantlelancelot.com",
+    "geolocalisation": {
+      "lat": 48.0711341,
+      "lng": 2.1348537
+    }
   },
   {
     "id": 29,
@@ -406,7 +522,11 @@
     "type": "Cuisine moderne",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.coteauxetfourchettes.com"
+    "link": "www.coteauxetfourchettes.com",
+    "geolocalisation": {
+      "lat": 44.227,
+      "lng": 4.8484
+    }
   },
   {
     "id": 30,
@@ -417,7 +537,11 @@
     "type": "Cuisine créative",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.ala12.fr"
+    "link": "www.ala12.fr",
+    "geolocalisation": {
+      "lat": 48.887011,
+      "lng": 6.3917609
+    }
   },
   {
     "id": 31,
@@ -428,7 +552,11 @@
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable. Nos établissements de charme.",
     "speciality": [],
-    "link": "www.lagriotte.fr"
+    "link": "www.lagriotte.fr",
+    "geolocalisation": {
+      "lat": 47.1239877,
+      "lng": 6.1994368
+    }
   },
   {
     "id": 32,
@@ -439,7 +567,11 @@
     "type": "Cuisine moderne",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.restaurant-lamaison-cognac.fr"
+    "link": "www.restaurant-lamaison-cognac.fr",
+    "geolocalisation": {
+      "lat": 45.6929674,
+      "lng": -0.325792
+    }
   },
   {
     "id": 33,
@@ -450,7 +582,11 @@
     "type": "Cuisine moderne",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.pomze.com"
+    "link": "www.pomze.com",
+    "geolocalisation": {
+      "lat": 48.8744634,
+      "lng": 2.3207611
+    }
   },
   {
     "id": 34,
@@ -461,7 +597,11 @@
     "type": "Cuisine traditionnelle",
     "experience": "Assez confortable",
     "speciality": [],
-    "link": "www.histoire-ancienne.com"
+    "link": "www.histoire-ancienne.com",
+    "geolocalisation": {
+      "lat": 50.9565461,
+      "lng": 1.8498621
+    }
   },
   {
     "id": 35,
@@ -472,7 +612,11 @@
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
     "speciality": [],
-    "link": "www.aucolombier.com"
+    "link": "www.aucolombier.com",
+    "geolocalisation": {
+      "lat": 45.9149,
+      "lng": 4.6815
+    }
   },
   {
     "id": 36,
@@ -483,7 +627,11 @@
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
     "speciality": [],
-    "link": "https://fr-fr.facebook.com/LArum-restaurant-2126714757548324/"
+    "link": "https://fr-fr.facebook.com/LArum-restaurant-2126714757548324/",
+    "geolocalisation": {
+      "lat": 43.1202356,
+      "lng": 6.1312856
+    }
   },
   {
     "id": 37,
@@ -494,7 +642,11 @@
     "type": "Cuisine moderne",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.manoirdelapommeraie.com"
+    "link": "www.manoirdelapommeraie.com",
+    "geolocalisation": {
+      "lat": 48.829763,
+      "lng": -0.8611182
+    }
   },
   {
     "id": 38,
@@ -505,7 +657,11 @@
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
     "speciality": [],
-    "link": "www.lesepicescuriens.com"
+    "link": "www.lesepicescuriens.com",
+    "geolocalisation": {
+      "lat": 49.4766,
+      "lng": 5.3852
+    }
   },
   {
     "id": 39,
@@ -516,7 +672,11 @@
     "type": "Cuisine du marché",
     "experience": "Assez confortable",
     "speciality": [],
-    "link": "www.mrestaurant.fr"
+    "link": "www.mrestaurant.fr",
+    "geolocalisation": {
+      "lat": 45.7679,
+      "lng": 4.8506
+    }
   },
   {
     "id": 40,
@@ -527,7 +687,11 @@
     "type": "Cuisine moderne",
     "experience": "Très confortable",
     "speciality": [],
-    "link": "www.le-dauphin-normandie.fr"
+    "link": "www.le-dauphin-normandie.fr",
+    "geolocalisation": {
+      "lat": 49.1845268,
+      "lng": -0.3648449
+    }
   },
   {
     "id": 41,
@@ -538,7 +702,11 @@
     "type": "Cuisine régionale",
     "experience": "Confortable. Nos établissements de charme.",
     "speciality": [],
-    "link": "www.hameaualbert.fr"
+    "link": "www.hameaualbert.fr",
+    "geolocalisation": {
+      "lat": 45.939703,
+      "lng": 6.8879072
+    }
   },
   {
     "id": 42,
@@ -549,7 +717,11 @@
     "type": "Cuisine moderne",
     "experience": "Confortable",
     "speciality": [],
-    "link": "www.hotellescapucins.com"
+    "link": "www.hotellescapucins.com",
+    "geolocalisation": {
+      "lat": 47.6356687,
+      "lng": 6.8575049
+    }
   },
   {
     "id": 43,
@@ -560,7 +732,11 @@
     "type": "Cuisine moderne",
     "experience": "Assez confortable. Nos établissements de charme.",
     "speciality": [],
-    "link": "www.latabledaime.com"
+    "link": "www.latabledaime.com",
+    "geolocalisation": {
+      "lat": 42.7701248,
+      "lng": 2.8776441
+    }
   },
   {
     "id": 44,
@@ -571,7 +747,11 @@
     "type": "Cuisine du terroir",
     "experience": "Très confortable",
     "speciality": [],
-    "link": "www.restaurant-vidal.com"
+    "link": "www.restaurant-vidal.com",
+    "geolocalisation": {
+      "lat": 45.0329434,
+      "lng": 4.0618916
+    }
   },
   {
     "id": 45,
@@ -616,7 +796,11 @@
       "Rissoles de pomme de terre",
       "Porc Ibérique"
     ],
-    "link": "www.balade-des-saveurs.com"
+    "link": "www.balade-des-saveurs.com",
+    "geolocalisation": {
+      "lat": 43.9191691,
+      "lng": 5.0538942
+    }
   },
   {
     "id": 46,
@@ -627,7 +811,11 @@
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
     "speciality": [],
-    "link": ""
+    "link": "",
+    "geolocalisation": {
+      "lat": 48.09776,
+      "lng": -4.2112796
+    }
   },
   {
     "id": 47,
@@ -638,6 +826,10 @@
     "type": "Cuisine moderne",
     "experience": "Assez confortable",
     "speciality": [],
-    "link": "www.restaurant-bastion-lagrasse.fr"
+    "link": "www.restaurant-bastion-lagrasse.fr",
+    "geolocalisation": {
+      "lat": 43.0912505,
+      "lng": 2.6208814
+    }
   }
 ]

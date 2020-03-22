@@ -16,6 +16,10 @@
     color: #61dafb;
 }
 
+.tel {
+    color: #00000080;
+}
+
 div p:not(.name){
     margin: 0rem;
 }
@@ -25,6 +29,9 @@ p.name {
 }
 
 div.list_restaurant h4 {
+    letter-spacing: 1rem;
+    text-shadow: 4px 3px #f3c5cc;
+    margin-top: 0.6rem;
     margin-bottom: 0rem;
-    font-size: 1.4rem;
+    font-size: 1.5rem;
 }

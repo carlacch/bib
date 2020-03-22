@@ -1,7 +1,7 @@
 .App {
   flex-direction: column;
   text-align: center;
-  min-height: 100vh;
+  height: 100vh;
 }
 
 .App-logo {
@@ -23,6 +23,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
+  height: 16vh;
   color: #302424;
 }
 
@@ -47,6 +48,7 @@
 
 .list {
   flex: 2.2;
+  max-height: inherit;
 }
 
 .map{
@@ -57,9 +59,9 @@
   flex: 1;
   display: flex;
   overflow: hidden;
-  height: calc(100vh - 21.3vmin);
   position: relative;
   width: 100%;
+  height: calc(100% - 16vh - 5vh);
 }
 
 footer {
@@ -68,6 +70,7 @@ footer {
   color: #302424;
   background-color: #f1e4e4;
   justify-content: center;
+  height: 5vh;
 }
 
 footer p {

@@ -16,13 +16,16 @@ class Restaurants extends Component {
 
 function Restaurant({element}){
   let value = "//" + element.link;
+  let linkphone = "tel:"+element.tel;
+  let prix = element.price.replace('EUR',' €');
   return(
     
       <div className="card">
           <p className="name"><b>{element.name}</b></p>
           <p>{element.adress}</p>
-          <p>{element.tel}</p>
-          <p>{element.price}</p>
+          <a className="tel" href={linkphone}>{element.tel}</a>
+          <p>{prix}</p>
+          <p><b>{element.type}</b></p>
           <a className="link" target="_blank" rel="noopener noreferrer" href={value}>{element.link}</a>
       </div>
   );
